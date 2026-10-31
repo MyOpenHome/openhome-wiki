@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: Builders/Nicholas3415
-entity_type: builders
+title: builders/nicholas3415
+entity_type: builder
 status: stub
-last_updated: 2026-10-30
+last_updated: 2026-10-31
 ---
 
 ### who-they-are
-Nicholas3415 is an active member of the builder community, recognized for their participation and contributions within various projects utilizing the Homie framework and devkit. Details regarding their specific background and current building initiatives are not available.
+Nicholas3415 is a member of the active community of builders, identified as a devkit holder, who is involved in various development projects within the ecosystem.
 
 ### what-they-built
-Information on specific abilities or integrations that Nicholas3415 has shipped is currently lacking.
+As of the latest update, specific abilities or integrations that Nicholas3415 has shipped are not documented.
 
 ### grant-status
 none
@@ -22,8 +22,6 @@ none
 
 ### connects-to
 [[builders]]
-[[Homie]]
-[[devkit]]
-
-<!-- synthesized: 2026-10-30T16:50:24Z -->
+[[community builders]]
+<!-- synthesized: 2026-10-31T15:53:51Z -->
 ```
