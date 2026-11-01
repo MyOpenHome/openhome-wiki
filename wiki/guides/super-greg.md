@@ -1,24 +1,24 @@
 ```markdown
 ---
 title: Super Greg
-entity_type: guides
+entity_type: guides/super-greg
 status: stub
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 ---
 
-## who-they-are
-Super Greg is recognized within the community for their expertise in providing assistance and onboarding new users. They have developed a reputation as a reliable resource for navigating various challenges encountered by users.
+### who-they-are
+Super Greg is a community guide known for their extensive involvement in onboarding new users. While specific background details and expertise information are currently unavailable, they are recognized within the community for their contributions.
 
-## what-they-help-with
-Super Greg specializes in guiding users through the onboarding process, helping them familiarize themselves with the community's tools and resources. Their ability to share knowledge on best practices is invaluable for newcomers looking to enhance their experience.
+### what-they-help-with
+Super Greg specializes in providing guidance to new users, facilitating their understanding of community resources and navigating various tools. However, detailed specifics about their abilities, hardware, or APIs they work with are not provided.
 
-## how-to-reach
-Super Greg can be contacted via Discord for inquiries and assistance.
+### how-to-reach
+Super Greg can be contacted via their Discord handle. Unfortunately, the specific handle is not listed in the current information.
 
 ## connects-to
 [[guides]]
-[[community]]
+[[community guides]]
 [[onboarding]]
-[[support]]
-<!-- synthesized: 2026-10-31T15:53:51Z -->
+[[Discord]]
+<!-- synthesized: 2026-11-01T16:56:01Z -->
 ```

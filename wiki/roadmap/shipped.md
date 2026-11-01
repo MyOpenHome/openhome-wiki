@@ -1,27 +1,26 @@
 ```markdown
 ---
-title: Roadmap/Overview
+title: Roadmap Shipped
 entity_type: roadmap
 status: stub
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 ---
 
-## what-it-is
-Overview of the roadmap related to features or milestones that are either shipped, in progress, or planned.
+### what-it-is
+This page documents the features or milestones that are part of the roadmap, focusing specifically on what has been shipped.
 
-## status
+### status
 Stub
 
-## why-it-matters
-Understanding the roadmap is crucial for stakeholders to align their expectations with the development teams' timelines and priorities. It provides insights into what features and improvements may enhance user experiences and productivity.
+### why-it-matters
+The roadmap outlines the direction and priorities for development, ensuring transparency and alignment with user needs and expectations.
 
-## eta
-Rough timelines are currently unspecified.
+### eta
+N/A
 
 ## connects-to
-[[roadmap/in-progress]]
-[[roadmap/planned]]
-[[roadmap/cancelled]]
-
-<!-- synthesized: 2026-10-31T15:53:51Z -->
+[[roadmap]] 
+[[features]] 
+[[milestones]] 
+<!-- synthesized: 2026-11-01T16:56:01Z -->
 ```

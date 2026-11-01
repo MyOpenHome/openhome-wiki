@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: builders/emperormidas
+title: Emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 ---
 
 ### who-they-are
-Emperormidas is an active community builder engaged in developing innovative solutions within the platform. They are recognized as a Homie and hold devkit responsibilities.
+Emperormidas is a builder in the active community of developers known for their involvement in creating and enhancing integrations within the ecosystem. Details regarding their specific background and projects currently remain unspecified.
 
 ### what-they-built
-Currently, there is no documented information about specific abilities or integrations that Emperormidas has shipped.
+Information on what Emperormidas has built or what abilities they have shipped is currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
-## connects-to
-[[abilities]]
-[[community builders]]
-[[devkit holders]]
+### connects-to
+No related abilities documented.
 
-<!-- synthesized: 2026-10-31T15:53:51Z -->
+<!-- synthesized: 2026-11-01T16:56:01Z -->
 ```

@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: Roadmap / Planned
-entity_type: roadmap/planned
+title: roadmap/planned
+entity_type: roadmap
 status: stub
-last_updated: 2026-10-31
+last_updated: 2026-11-01
 ---
 
 ### what-it-is
-This page outlines the planned features and milestones for upcoming developments.
+Details regarding planned features or milestones were not provided.
 
 ### status
-stub
+The current status of planned features or milestones is not specified.
 
 ### why-it-matters
-Understanding the roadmap is important for stakeholders to know what to expect in terms of new features, improvements, or changes that may enhance usability or functionality.
+The motivation behind planning future features or milestones is unclear due to a lack of information.
 
 ### eta
-No specific estimated timelines are available at this time.
+There is no estimated timeline available for the planned features or milestones.
 
 ## connects-to
-[[roadmap]]
-[[features]]
-[[milestones]]
+[[roadmap]] 
 
-<!-- synthesized: 2026-10-31T15:53:51Z -->
+<!-- synthesized: 2026-11-01T16:56:01Z -->
 ```
