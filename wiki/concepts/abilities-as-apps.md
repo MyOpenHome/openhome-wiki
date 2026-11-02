@@ -2,26 +2,26 @@
 ---
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: beta
-last_updated: 2026-11-01
+status: live
+last_updated: 2026-11-02
 ---
 
 ### definition
-Abilities-as-apps is a foundational concept within OpenHome that allows users to access various functionalities and features in the form of applications. Each ability can function independently or in conjunction with other abilities to enhance user experience and interactivity.
+Abilities-as-apps refers to a framework within OpenHome that allows functionalities and skills to be encapsulated as applications. This approach enables users to access specific capabilities as discrete applications instead of integrated features, offering modularity and user flexibility.
 
 ### why-it-matters
-This concept is significant to OpenHome because it promotes modularity and flexibility in how users engage with digital environments. By treating abilities as apps, it enables developers to create a diverse ecosystem of interoperable applications that users can customize to fit their needs and preferences. This enhances user autonomy and personalizes interactions within the platform.
+This concept is significant for OpenHome because it enhances user experience by allowing customization and tailoring of functionalities according to individual preferences. By treating abilities as separate apps, users can choose only the features they need, simplifying the interface and making technology more accessible.
 
 ### how-it-manifests
-In the OpenHome platform, abilities-as-apps are implemented as distinct modules that users can easily integrate into their digital spaces. Each module, or app, represents a specific functionality—such as scheduling, task management, or content creation—that can be activated or deactivated as desired. This modular approach allows users to build their own tailored experience, ensuring that only relevant abilities are in use at any given time.
+In the OpenHome platform, abilities-as-apps appear as individual applications that can be added, removed, or modified by the user. This modularity promotes a user-centric design, enabling seamless interaction with different capabilities without the clutter of unnecessary features.
 
 ## connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-01T16:56:01Z -->
+<!-- synthesized: 2026-11-02T20:32:16Z -->
 ```

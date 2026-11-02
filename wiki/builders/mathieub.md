@@ -1,24 +1,29 @@
 ```markdown
 ---
-title: builders/mathieub
+title: mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-11-01
+last_updated: 2026-11-02
 ---
 
 ### who-they-are
-Mathieu B. is a community builder actively involved in developing innovative solutions in the blockchain space. While specific details about their background are not provided, they participate in development activities that utilize devkit capabilities.
+Mathieu B. is a community builder and developer known for their contributions in the builder community, particularly in relation to devkit performance and capabilities. They are focused on creating tools and resources that enhance the user experience and expand the functionality of existing frameworks.
 
 ### what-they-built
-Information regarding specific abilities or integrations built by Mathieu B. is not currently available.
+The specific abilities or integrations that Mathieu B. has shipped are not detailed in the available material.
 
 ### grant-status
 none
 
 ### how-to-reach
-No contact information, such as Discord handle or GitHub, has been provided.
+Discord: Not provided  
+GitHub: Not provided  
+X: Not provided  
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-11-01T16:56:01Z -->
+[[builders]]
+[[devkit]]
+[[community builders]]
+
+<!-- synthesized: 2026-11-02T20:32:16Z -->
 ```

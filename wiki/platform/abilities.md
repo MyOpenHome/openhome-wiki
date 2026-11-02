@@ -1,17 +1,18 @@
-```yaml
-title: platform/abilities
+```markdown
+---
+title: Platform Abilities
 entity_type: platform
 status: stub
-last_updated: 2026-11-01
-```
+last_updated: 2026-11-02
+---
 
-## what-it-is
-The platform/abilities refers to the functionalities and features that OpenHome offers to enhance user experience and system performance.
+### what-it-is
+The platform abilities define the various functionalities and features that enhance user interaction and customization within the OpenHome ecosystem.
 
-## how-it-works
-Information regarding the technical specifications or user-facing aspects of platform/abilities is currently limited. The specific abilities and functionalities integrated within the OpenHome platform remain to be detailed.
+### how-it-works
+The platform abilities facilitate a range of user-defined actions and integrations, allowing users to tailor their experience based on personal preferences. This includes voice command functionality, automation of tasks across connected devices, and the ability to interact with various applications seamlessly. The architecture of OpenHome supports these capabilities through a modular design that permits easy updates and incorporation of new abilities as they are developed.
 
-## current-status
+### current-status
 stub
 
 ## connects-to
@@ -23,4 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-11-01T16:56:01Z -->
+<!-- synthesized: 2026-11-02T20:32:16Z -->
+```

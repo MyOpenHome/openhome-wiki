@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-11-01
+last_updated: 2026-11-02
 ---
 
 ## definition
-Spatial intelligence refers to the capacity to understand and manipulate spatial relationships and environments. It involves the ability to visualize and navigate spaces, allowing individuals to form mental models of their surroundings.
+Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves skills such as understanding spatial relationships, recognizing patterns, and navigating environments effectively.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is significant as it enhances user interaction with environments. By leveraging spatial intelligence, users can engage with their home settings in a more intuitive manner, improving their overall experience and interaction with technology.
+In the context of OpenHome, spatial intelligence plays a crucial role in creating user experiences that are intuitive and immersive. As users interact with their environment through smart applications, understanding spatial dynamics enhances functionality, making the platform more useful and engaging.
 
 ## how-it-manifests
-While specific implementations within the OpenHome platform are not detailed, spatial intelligence can manifest through functionalities that involve navigation, spatial mapping, augmented reality, or any feature that requires an understanding of physical space in relation to user tasks and interactions.
+While specific implementations of spatial intelligence within OpenHome are not detailed, it can be anticipated to manifest in features like virtual environment navigation, augmented reality applications, and smart home device coordination. These features would rely on an understanding of spatial relationships to provide seamless user experiences.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations within the OpenHome platform are not detailed, sp
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-01T16:56:01Z -->
+<!-- synthesized: 2026-11-02T20:32:16Z -->
 ```
