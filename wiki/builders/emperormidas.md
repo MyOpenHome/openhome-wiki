@@ -1,26 +1,27 @@
 ```markdown
 ---
-title: builders/emperormidas
+title: emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 ### who-they-are
-Emperor Midas is an active community builder involved in project development within the ecosystem of devkit holders. They are focused on creating innovative solutions and integrations to enhance user experiences.
+Emperormidas is an active community builder who engages with developer kits, contributing to various projects and innovations within the community.
 
 ### what-they-built
-Information about specific abilities or integrations shipped by Emperor Midas is currently not available.
+Details about specific abilities or integrations developed by emperormidas are currently not available.
 
 ### grant-status
-Applied
+none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X (formerly Twitter): Not provided
+Discord handle: Not specified  
+GitHub: Not specified  
+X: Not specified  
 
 ## connects-to
-[[wikilink to relevant abilities]]
-<!-- synthesized: 2026-11-02T20:32:16Z -->
+[[builders]]
+
+<!-- synthesized: 2026-11-03T18:06:22Z -->
 ```

@@ -3,14 +3,14 @@
 title: builders/michaelgold
 entity_type: builders
 status: stub
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 ## who-they-are
-Michael Gold is an active community builder and a devkit holder who is engaged in shipping abilities within the Homie ecosystem.
+Michael Gold is an active community builder involved in developing and shipping abilities within the devkit ecosystem.
 
 ## what-they-built
-Information on specific abilities or integrations that Michael Gold has shipped is currently unavailable.
+Currently, there is no specific information available regarding the abilities or integrations Michael Gold has shipped.
 
 ## grant-status
 none
@@ -21,9 +21,6 @@ none
 - X: Not specified
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[community builders]]
-
-<!-- synthesized: 2026-11-02T20:32:16Z -->
+[[abilities]]
+<!-- synthesized: 2026-11-03T18:06:22Z -->
 ```

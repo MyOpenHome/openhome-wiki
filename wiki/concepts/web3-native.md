@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Web3-Native
+title: Web3 Native
 entity_type: concepts
-status: beta
-last_updated: 2026-11-02
+status: stub
+last_updated: 2026-11-03
 ---
 
 ## definition
-Web3-native refers to technologies, applications, and platforms that are built on decentralized networks using blockchain and cryptocurrency technologies. Unlike traditional web applications, web3-native projects emphasize user ownership, privacy, and trustlessness through decentralized protocols and smart contracts.
+Web3 Native refers to applications and systems built specifically for the decentralized web (Web3). This concept emphasizes using blockchain and other decentralized technologies to enhance user control over data, foster greater privacy, and improve trust within digital interactions.
 
 ## why-it-matters
-The concept of being web3-native is crucial to OpenHome as it aligns with the platform's goal of decentralization and user empowerment. By adopting web3-native principles, OpenHome can offer users greater control over their data and interactions, thereby enhancing the overall user experience. Emphasizing web3-native attributes also supports the community’s efforts to build a more equitable and transparent online ecosystem.
+The relevance of Web3 Native to OpenHome lies in its alignment with the platform's goals of decentralization and user empowerment. By leveraging Web3 technologies, OpenHome aims to create a more secure and autonomous environment for users, minimizing reliance on centralized entities and fostering community-oriented governance.
 
 ## how-it-manifests
-In OpenHome, web3-native characteristics manifest through features such as user-owned data, decentralized identity management, and the integration of smart contracts for automating transactions and agreements. The platform may leverage blockchain technology to ensure transparency in user interactions and maintain a secure and trustless environment for users.
+While specific manifestations of Web3 Native within OpenHome are currently unspecified, the concept can potentially influence various aspects, such as user identity management, secure transactions, and data ownership. By integrating blockchain technology, OpenHome could provide users with verifiable and immutable records of their interactions and transactions.
 
 ## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+- [[concepts/abilities-as-apps]]
+- [[concepts/voice-first]]
+- [[concepts/local-first]]
+- [[concepts/dead-mans-switch]]
+- [[concepts/spatial-intelligence]]
+- [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-02T20:32:16Z -->
+<!-- synthesized: 2026-11-03T18:06:22Z -->
 ```

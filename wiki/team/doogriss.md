@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: team/doogriss
-entity_type: team
-status: stub
-last_updated: 2026-11-02
+title: "doogriss"
+entity_type: "team/"
+status: "stub"
+last_updated: 2026-11-03
 ---
 
 ### who-they-are
-Doogriss is a core member of the OpenHome team, fulfilling the role of Admin. Further details about their professional background are currently unavailable.
+Role at OpenHome and background information about doogriss are currently unknown.
 
 ### what-they-own
-Doogriss leads various areas within the OpenHome platform, but specific domains of ownership have not been documented.
+Areas of the platform that doogriss leads are currently unknown.
 
 ### how-to-reach
-Information regarding how to reach Doogriss, including Discord handle or other contact methods, is not currently available.
+Contact information for doogriss is currently unknown.
 
 ## connects-to
-[[team/jesse]]  
-[[team/shannon]]  
+[[team/jesse]]
+[[team/shannon]]
 
-<!-- synthesized: 2026-11-02T20:32:16Z -->
+<!-- synthesized: 2026-11-03T18:06:22Z -->
 ```

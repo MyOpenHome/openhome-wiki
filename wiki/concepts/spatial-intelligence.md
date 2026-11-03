@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-11-02
+last_updated: 2026-11-03
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate objects in a three-dimensional space. It involves skills such as understanding spatial relationships, recognizing patterns, and navigating environments effectively.
+Spatial intelligence refers to the capability to visualize and manipulate spatial configurations and relationships. It encompasses understanding how objects relate in space and the ability to navigate environments effectively.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence plays a crucial role in creating user experiences that are intuitive and immersive. As users interact with their environment through smart applications, understanding spatial dynamics enhances functionality, making the platform more useful and engaging.
+In the context of OpenHome, spatial intelligence is crucial as it enables users to interact with and engage their physical surroundings in a more meaningful way. This capacity can enhance user experiences by allowing for more intuitive navigation and interactions within the OpenHome ecosystem.
 
 ## how-it-manifests
-While specific implementations of spatial intelligence within OpenHome are not detailed, it can be anticipated to manifest in features like virtual environment navigation, augmented reality applications, and smart home device coordination. These features would rely on an understanding of spatial relationships to provide seamless user experiences.
+While specific applications of spatial intelligence within the OpenHome platform are yet to be detailed, it generally manifests in features that involve navigation, spatial arrangement of objects, and augmented reality experiences that require an understanding of physical spaces.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations of spatial intelligence within OpenHome are not d
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-02T20:32:16Z -->
+<!-- synthesized: 2026-11-03T18:06:22Z -->
 ```
