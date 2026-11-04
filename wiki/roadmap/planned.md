@@ -1,26 +1,26 @@
 ```markdown
 ---
-title: Roadmap
-entity_type: roadmap/planned
+title: Roadmap/Planned
+entity_type: roadmap
 status: stub
-last_updated: 2026-11-03
+last_updated: 2026-11-04
 ---
 
 ### what-it-is
-The roadmap outlines upcoming features, ongoing projects, and completed milestones in the development cycle.
+The roadmap outlines upcoming features and milestones that are planned for development.
 
 ### status
-Stub - No specific features or milestones have been provided at this time.
+stub
 
 ### why-it-matters
-Establishing a clear roadmap is crucial for guiding development priorities, informing stakeholders of upcoming changes, and aligning team efforts towards common goals. It helps users understand what to expect in the future and fosters a sense of transparency and engagement.
+Understanding the roadmap is crucial for users to anticipate future functionalities and improvements, which can enhance user experience and engagement.
 
 ### eta
-No estimated timelines provided.
+Rough timelines for upcoming features are not currently available.
 
 ## connects-to
-[[features]]  
-[[milestones]]  
-[[development]]
-<!-- synthesized: 2026-11-03T18:06:22Z -->
+[[Features]]
+[[Milestones]]
+[[User Engagement]]
+<!-- synthesized: 2026-11-04T18:17:32Z -->
 ```

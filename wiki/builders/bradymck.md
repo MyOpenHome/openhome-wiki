@@ -1,28 +1,29 @@
 ```markdown
 ---
-title: Builders/BradyMck
-entity_type: builders
+title: bradymck
+entity_type: builders/
 status: stub
-last_updated: 2026-11-03
+last_updated: 2026-11-04
 ---
 
 ### who-they-are
-BradyMck is a community builder actively engaged in developing projects within the ecosystem. Specific details about their background and the nature of their contributions are currently limited.
+Brady McK, known as bradymck, is an active community member engaged in building within the developer kit ecosystem. Their focus is on creating new tools and integrations that enhance user experiences.
 
 ### what-they-built
-Information regarding any shipped abilities or integrations by BradyMck has not been documented yet.
+Currently, there is no specific information available regarding the abilities or integrations that bradymck has shipped.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X (formerly Twitter): Not specified
+- Discord: bradymck
+- GitHub: [bradymck](https://github.com/bradymck)
+- X: Not available
 
-## connects-to
-[[Abilities]]
-[[Integrations]]
+### connects-to
+[[builder-tools]]
+[[developer-ecosystem]]
+[[community-engagement]]
 
-<!-- synthesized: 2026-11-03T18:06:22Z -->
+<!-- synthesized: 2026-11-04T18:17:32Z -->
 ```

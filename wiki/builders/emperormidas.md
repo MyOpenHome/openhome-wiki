@@ -3,25 +3,24 @@
 title: emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-11-03
+last_updated: 2026-11-04
 ---
 
 ### who-they-are
-Emperormidas is an active community builder who engages with developer kits, contributing to various projects and innovations within the community.
+Emperormidas is a community builder who is part of the Homie and User roles within the ecosystem. They are actively involved in developing tools and integrations utilizing the capabilities of devkits.
 
 ### what-they-built
-Details about specific abilities or integrations developed by emperormidas are currently not available.
+Information on specific abilities or integrations shipped by emperormidas is currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not specified  
-GitHub: Not specified  
-X: Not specified  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-
-<!-- synthesized: 2026-11-03T18:06:22Z -->
+[[wikilinks]]
+<!-- synthesized: 2026-11-04T18:17:32Z -->
 ```

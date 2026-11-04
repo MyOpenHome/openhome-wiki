@@ -2,17 +2,17 @@
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-11-03
+last_updated: 2026-11-04
 ```
 
 ## definition
-Abilities-as-apps refers to a framework where various functionalities or capabilities are modularized into applications that can be easily accessed and utilized within the OpenHome ecosystem.
+Abilities-as-apps refers to the concept of decoupling functional capabilities (abilities) from the underlying platform architecture, allowing them to be developed, deployed, and utilized as independent applications.
 
 ## why-it-matters
-This concept is significant to OpenHome as it promotes flexibility and user empowerment, allowing individuals to customize their experiences by integrating only the applications that meet their specific needs. It encourages innovation and adaptability within the platform, aligning with modern demands for personalized technology solutions.
+This approach is essential for enhancing modularity and flexibility within the OpenHome ecosystem. It empowers developers to create diverse applications that can interact with various capabilities seamlessly, fostering innovation and user choice.
 
 ## how-it-manifests
-While specific implementations of abilities-as-apps are not detailed, it generally manifests as an interface or a toolkit within the OpenHome platform where users can enable, disable, or customize applications that provide different functionalities relevant to their home environment.
+In the OpenHome platform, abilities-as-apps can be seen in the way applications can be easily integrated or detached. This could manifest through APIs that facilitate the addition of new functionalities without disrupting existing services, making it easier for users to customize their experiences.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -22,4 +22,4 @@ While specific implementations of abilities-as-apps are not detailed, it general
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-03T18:06:22Z -->
+<!-- synthesized: 2026-11-04T18:17:32Z -->
