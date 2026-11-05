@@ -1,26 +1,23 @@
 ```markdown
 ---
-title: guides/samuel35
-entity_type: Community Guide
+title: Samuel35
+entity_type: guides/
 status: stub
-last_updated: 2026-11-04
+last_updated: 2026-11-05
 ---
 
 ### who-they-are
-Samuel35 is a community guide recognized for their contributions in onboarding new users and providing assistance in various technical areas.
+Samuel35 is a community guide known for contributing to onboarding and assisting new users within the community. Their background and specific expertise have not been disclosed.
 
 ### what-they-help-with
-Samuel35 specializes in helping users with a range of topics including hardware configurations, software setups, and API integrations.
+Samuel35 specializes in providing guidance on navigating various features and functionalities within the community, although specific specialties have not been detailed.
 
 ### how-to-reach
-You can connect with Samuel35 on Discord.
+Samuel35 can be reached on Discord, but their specific handle is not provided.
 
 ## connects-to
-[[guides]]
-[[community guides]]
-[[hardware support]]
-[[software setup]]
-[[API assistance]]
+[[guides/]]
+[[community-guides/]]
 
-<!-- synthesized: 2026-11-04T18:17:32Z -->
+<!-- synthesized: 2026-11-05T18:21:08Z -->
 ```

@@ -1,27 +1,25 @@
-```markdown
----
-title: "Dead Man's Switch"
-entity_type: "concepts"
-status: "stub"
-last_updated: 2026-11-04
----
-
-### definition
-A dead man's switch is a safety mechanism that automatically activates a certain function or process if the user becomes incapacitated or fails to respond. In the context of technology, it often refers to systems that require periodic user interaction to confirm that the system is functioning or to prevent automated processes from triggering inappropriately.
-
-### why-it-matters
-Dead man's switches are important in ensuring safety and reliability within systems that require human oversight. In OpenHome, implementing this concept could enhance user confidence by providing fail-safes against unintentional automation or operations during unforeseen circumstances. It contributes to the overall resilience and trustworthiness of the platform.
-
-### how-it-manifests
-While specific implementations within OpenHome's infrastructure are not detailed, the dead man's switch concept could appear in various applications, such as communication tools that check user presence before proceeding with actions, or in home automation where certain commands are only executed if the user is actively engaging with the control interface.
-
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-11-04T18:17:32Z -->
+```yaml
+title: Dead Man's Switch
+entity_type: concepts
+status: stub
+last_updated: 2026-11-05
 ```
+
+## definition
+A dead man's switch is a safety mechanism that automatically triggers an action or notification if an individual becomes incapacitated or fails to manually intervene within a specified timeframe. This is often used in various systems to ensure that critical tasks or alerts are maintained in the absence of a user.
+
+## why-it-matters
+In the context of OpenHome, a dead man's switch is significant as it enhances user security and system reliability. It provides assurance that important functionalities or user controls remain active and operational, even in unforeseen circumstances.
+
+## how-it-manifests
+While the specific implementation details within the OpenHome platform may not be documented in this source, the concept typically manifests in features that require continuous user engagement or verification. For instance, it may relate to aspects of accessibility, security alerts, or automated processes designed to activate when a user is deemed unresponsive.
+
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-11-05T18:21:08Z -->

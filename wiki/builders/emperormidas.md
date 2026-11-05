@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: emperormidas
+title: Emperormidas
 entity_type: builders
-status: stub
-last_updated: 2026-11-04
+status: live
+last_updated: 2026-11-05
 ---
 
 ### who-they-are
-Emperormidas is a community builder who is part of the Homie and User roles within the ecosystem. They are actively involved in developing tools and integrations utilizing the capabilities of devkits.
+Emperormidas is an active community builder within the Homie ecosystem, recognized for their contributions as a devkit holder focused on developing and shipping innovative solutions.
 
 ### what-they-built
-Information on specific abilities or integrations shipped by emperormidas is currently not available.
+Details about the specific abilities or integrations that Emperormidas has built or contributed to are not available at this time.
 
 ### grant-status
 none
@@ -21,6 +21,9 @@ none
 - X: Not specified
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-11-04T18:17:32Z -->
+[[builders]]
+[[devkit]]
+[[community builders]]
+
+<!-- synthesized: 2026-11-05T18:21:08Z -->
 ```
