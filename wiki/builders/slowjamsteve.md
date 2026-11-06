@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: Slow Jam Steve
+title: SlowJamSteve
 entity_type: builders
 status: stub
-last_updated: 2026-11-05
+last_updated: 2026-11-06
 ---
 
 ### who-they-are
-Slow Jam Steve is an active community builder engaged in creating and enhancing experiences within the developer community. Details about their background and specific projects are currently not available.
+SlowJamSteve is a community builder active in the development space, known for engaging with fellow developers and contributing to the ecosystem.
 
 ### what-they-built
-Information regarding specific abilities or integrations that Slow Jam Steve has shipped is not available at this time.
+No specific shipped abilities or integrations have been documented at this time.
 
 ### grant-status
-The grant status for Slow Jam Steve is currently unknown.
+none
 
 ### how-to-reach
-No specific contact information available for Slow Jam Steve, including Discord handle, GitHub, or X.
+Information on how to reach SlowJamSteve is currently unavailable.
 
 ## connects-to
-[[Builders]]
-[[Community Projects]]
-[[Developer Integrations]]
+[[builders]]
+[[community]]
+[[development]]
+[[integrations]]
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```

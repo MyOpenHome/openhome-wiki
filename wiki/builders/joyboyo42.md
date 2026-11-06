@@ -1,27 +1,25 @@
 ```markdown
 ---
 title: builders/joyboyo42
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-11-05
+last_updated: 2026-11-06
 ---
 
 ### who-they-are
-Joyboyo42 is an active community builder within the Homie ecosystem. Details regarding their background and specific initiatives they are focusing on are currently unavailable.
+Information about joyboyo42's background and what they are building is currently unavailable.
 
 ### what-they-built
-Information about specific shipped abilities or integrations by Joyboyo42 is not provided.
+Details regarding the abilities or integrations shipped by joyboyo42 are currently unavailable.
 
 ### grant-status
-The grant status for Joyboyo42 is currently unknown.
+Information about joyboyo42's grant status is currently unavailable.
 
 ### how-to-reach
-Contact details for Joyboyo42, such as Discord handle, GitHub, or X, are not available.
+Contact information for joyboyo42 is currently unavailable.
 
 ## connects-to
-[[abilities]]
-[[community]]
-[[Homie]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```

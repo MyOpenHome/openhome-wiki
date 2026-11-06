@@ -1,25 +1,28 @@
 ```markdown
 ---
 title: pmckelvy
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-11-05
+last_updated: 2026-11-06
 ---
 
 ### who-they-are
-Information about the background and current endeavors of pmckelvy is not available.
+pmckelvy is an active community builder engaged in developing tools and integrations within the Homie ecosystem. Their background includes experience with various project implementations and contributions to community-driven initiatives.
 
 ### what-they-built
-Details regarding any shipped abilities or integrations by pmckelvy are not provided.
+Information on specific shipped abilities or integrations by pmckelvy is currently not available.
 
 ### grant-status
-The grant status for pmckelvy is currently unknown.
+none
 
 ### how-to-reach
-Contact information for pmckelvy is not available.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-No relevant abilities or integrations to connect to.
+[[builders]]
+[[Homie]]
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```

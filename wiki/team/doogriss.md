@@ -1,21 +1,26 @@
-```yaml
+```markdown
+---
 title: Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-11-05
-```
+last_updated: 2026-11-06
+---
 
 ### who-they-are
-Role at OpenHome, background
+Role at OpenHome: [Information not available]  
+Background: [Information not available]  
 
 ### what-they-own
-Areas of the platform they lead
+Areas of the platform they lead: [Information not available]  
 
 ### how-to-reach
-Discord handle, X/Twitter, preferred contact
+Discord handle: [Information not available]  
+X/Twitter: [Information not available]  
+Preferred contact: [Information not available]  
 
 ## connects-to
-[[wikilinks]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```

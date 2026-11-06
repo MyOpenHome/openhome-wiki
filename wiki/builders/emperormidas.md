@@ -1,29 +1,28 @@
 ```markdown
 ---
-title: Emperormidas
+title: builders/emperormidas
 entity_type: builders
-status: live
-last_updated: 2026-11-05
+status: stub
+last_updated: 2026-11-06
 ---
 
 ### who-they-are
-Emperormidas is an active community builder within the Homie ecosystem, recognized for their contributions as a devkit holder focused on developing and shipping innovative solutions.
+Emperor Midas is a community builder within the development ecosystem, recognized for engaging with projects and initiatives centered around collaborative building and innovation.
 
 ### what-they-built
-Details about the specific abilities or integrations that Emperormidas has built or contributed to are not available at this time.
+No specific abilities or integrations have been documented or shipped by Emperor Midas at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
 [[builders]]
-[[devkit]]
 [[community builders]]
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```

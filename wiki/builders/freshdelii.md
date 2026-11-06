@@ -1,27 +1,25 @@
 ```markdown
 ---
-title: builders/freshdelii
+title: Builders/Freshdelii
 entity_type: builders
 status: stub
-last_updated: 2026-11-05
+last_updated: 2026-11-06
 ---
 
-### who-they-are
-Freshdelii is part of the active community of builders, focusing on developing innovative applications and integrations within their ecosystem.
+## who-they-are
+Freshdelii is a community builder known for their contributions and active participation within the Homie + User roles. They are focused on developing tools and integrations that enhance user experience and functionality.
 
-### what-they-built
-Information on specific shipped abilities or integrations is currently not available.
+## what-they-built
+Details on specific shipped abilities or integrations are currently unavailable.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided  
+## how-to-reach
+Information regarding Discord handle, GitHub, or X is not provided.
 
 ## connects-to
-[[abilities]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```

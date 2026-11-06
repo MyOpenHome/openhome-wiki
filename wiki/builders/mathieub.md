@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: Mathieub
+title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-11-05
+last_updated: 2026-11-06
 ---
 
-### who-they-are
-Mathieub is a community builder known for their contributions in the development space, focusing on enhancing user experiences through innovative integrations and abilities.
+## who-they-are
+Mathieu B. is a member of the builder community known for engaging with development kits and creating integrations that enhance user experiences.
 
-### what-they-built
-Currently, there are no specific details available regarding the shipped abilities or integrations associated with Mathieub.
+## what-they-built
+Specific abilities or integrations built by Mathieu B. are currently not documented.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
+## how-to-reach
 - Discord: Not specified
 - GitHub: Not specified
 - X: Not specified
 
 ## connects-to
-[[builders]]
 [[abilities]]
-[[integrations]]
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```

@@ -1,22 +1,22 @@
 ```markdown
 ---
-title: Abilities: News Brief
+title: abilities/news-brief
 entity_type: abilities
 status: stub
-last_updated: 2026-11-05
+last_updated: 2026-11-06
 ---
 
 ### what-it-does
-The News Brief ability aggregates news updates and provides brief summaries of current events to users.
+The abilities/news-brief is designed to aggregate and present news updates in a concise format, designed for users who want to stay informed without sifting through extensive articles.
 
 ### how-to-build
-Builder notes and API surface information for creating the News Brief ability are currently unavailable.
+Currently, there are no specific builder notes or API details available for constructing this ability.
 
 ### category
 utility
 
 ### built-by
-[[builder_name]]  <!-- Replace with actual builder name -->
+[[builder-name]]
 
 ### status
 stub
@@ -26,5 +26,5 @@ stub
 [[abilities/deadman-fm]]
 [[abilities/trivia]]
 
-<!-- synthesized: 2026-11-05T18:21:08Z -->
+<!-- synthesized: 2026-11-06T17:43:06Z -->
 ```
