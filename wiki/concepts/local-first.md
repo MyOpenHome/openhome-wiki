@@ -1,27 +1,24 @@
 ```markdown
 ---
-title: Local-First
+title: Local First
 entity_type: concepts
-status: live
-last_updated: 2026-11-06
+status: stub
+last_updated: 2026-11-07
 ---
 
 ## definition
-Local-First is a concept that emphasizes the importance of local data storage and processing on devices, allowing applications to function independently of the internet while prioritizing user control and data privacy.
+Local First refers to a design approach in software development where applications prioritize local data storage and operations on the device itself before syncing with remote servers. This principle enhances responsiveness and allows users to continue working seamlessly even when offline.
 
 ## why-it-matters
-Local-First is significant to OpenHome because it enhances user autonomy, ensuring that users have control over their data and can access their applications without dependency on cloud services. This model improves performance, reduces latency, and supports better offline capabilities, making the platform more resilient.
+Local First is highly relevant to OpenHome as it emphasizes user autonomy, data sovereignty, and enhanced performance. By prioritizing local functionality, users can expect a more reliable experience, especially in scenarios with intermittent internet connectivity. This approach aligns with the vision of providing decentralized and user-centric applications.
 
 ## how-it-manifests
-In the OpenHome platform, Local-First manifests through applications that are designed to operate locally on user devices, enabling users to interact with their data seamlessly. This allows for immediate responses and functionalities even when connectivity is limited or unavailable. The platform may also include features that synchronize data when a connection is reestablished, ensuring consistency across devices while keeping user data secure.
+In the OpenHome platform, Local First manifests through applications that allow users to create, manage, and access their data directly from their devices. Features might include offline access to user-generated content, local data storage for quick retrieval, and mechanisms for syncing data to the cloud when connectivity is restored. This design choice ensures an uninterrupted user experience, fostering trust and resilience in everyday usage.
 
 ## connects-to
 [[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
 [[concepts/web3-native]]  
 [[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-11-06T17:43:06Z -->
+<!-- synthesized: 2026-11-07T16:39:52Z -->
 ```

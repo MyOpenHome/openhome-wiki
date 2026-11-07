@@ -1,18 +1,18 @@
 ```markdown
 ---
-title: Abilities
-entity_type: platform/abilities
+title: Platform Abilities
+entity_type: platform
 status: stub
-last_updated: 2026-11-06
+last_updated: 2026-11-07
 ---
 
-### what-it-is
-The platform capabilities of OpenHome refer to the various functionalities and features that can be utilized across its ecosystem, enabling users to enhance their experience.
+## what-it-is
+Platform abilities refer to the specific functionalities and features enabled within the OpenHome ecosystem. These abilities facilitate interactions among devices, users, and services to create a seamless and integrated home automation experience.
 
-### how-it-works
-Currently, there is insufficient detailed information on how the specific abilities of the OpenHome platform function. This includes interaction with other components, user interface, and technical frameworks that support the functionalities.
+## how-it-works
+The platform allows users to leverage various abilities to control and manage smart home devices through voice commands, app interfaces, and automation scripts. Skills and features can be tailored for different device types and user needs, enhancing the interactive capacity of the home environment. 
 
-### current-status
+## current-status
 stub
 
 ## connects-to
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-11-06T17:43:06Z -->
+<!-- synthesized: 2026-11-07T16:39:52Z -->
 ```

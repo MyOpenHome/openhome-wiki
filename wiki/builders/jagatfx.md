@@ -3,23 +3,26 @@
 title: builders/jagatfx
 entity_type: builder
 status: stub
-last_updated: 2026-11-06
+last_updated: 2026-11-07
 ---
 
 ### who-they-are
-Jagatfx is an active community builder identified within the Homie network, focusing on developing tools and resources for users with devkit holdings.
+Jagatfx is a developer and member of the Homie community, focusing on building various integrations within the blockchain space.
 
 ### what-they-built
-Information regarding specific shipped abilities or integrations is currently unavailable.
+Currently, there is no detailed information available regarding specific abilities or integrations that jagatfx has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-Contact can be made via their Discord handle, GitHub, or X. Specific handles are not provided in the source material.
+- Discord: Unknown
+- GitHub: Unknown
+- X: Unknown
 
-## connects-to
-[[wikilinks]]
+### connects-to
+[[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-11-06T17:43:06Z -->
+<!-- synthesized: 2026-11-07T16:39:52Z -->
 ```

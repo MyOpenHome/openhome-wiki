@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: web3-native
+title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-11-06
+last_updated: 2026-11-07
 ---
 
-### definition
-Web3-native refers to applications and platforms that are built on decentralized technologies, particularly those that emphasize blockchain and smart contracts. These systems operate without reliance on central authorities, allowing for direct peer-to-peer interactions.
+## definition
+Web3 Native refers to applications and services that are built on decentralized networks and harness blockchain technologies, promoting user sovereignty and privacy.
 
-### why-it-matters
-In the context of OpenHome, being web3-native means promoting user sovereignty and data ownership. It empowers users to control their own information and engage in decentralized finance and governance, which is a crucial aspect of the OpenHome ecosystem's focus on inclusivity and transparency.
+## why-it-matters
+The Web3 Native concept is crucial for OpenHome as it aligns with the platform’s vision of decentralization, empowering users to control their own data and interactions without reliance on centralized entities. This enhances security and fosters a trustless ecosystem.
 
-### how-it-manifests
-Web3-native concepts can be observed in various features of the OpenHome platform, such as decentralized identity management systems and smart contract functionalities that facilitate secure transactions and automated processes among users. These characteristics help to build a trustless environment where users can interact securely without intermediaries.
+## how-it-manifests
+Though specific implementations within OpenHome are not documented, the Web3 Native concept may manifest through decentralized identity solutions, peer-to-peer interactions, and integration with blockchain-based protocols that enhance user agency and privacy.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ Web3-native concepts can be observed in various features of the OpenHome platfor
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-06T17:43:06Z -->
+<!-- synthesized: 2026-11-07T16:39:52Z -->
 ```

@@ -1,18 +1,19 @@
-```yaml
+```markdown
+---
 title: Spatial Intelligence
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-11-06
-```
+last_updated: 2026-11-07
+---
 
 ## definition
-Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and structures. It encompasses skills related to perceiving and interacting with the physical world, including understanding space, distance, and movement.
+Spatial intelligence refers to the ability to understand, manipulate, and interact with the spatial relationships between objects in one's environment. This cognitive skill is essential for effective navigation, visualization, and spatial reasoning.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence is crucial as it enhances user engagement by enabling intuitive navigation and interaction within virtual environments. It allows users to better relate to their surroundings and make informed decisions based on the spatial layout of information and interfaces.
+In the context of OpenHome, spatial intelligence is crucial as it enhances user experience by enabling intuitive interactions with devices and services in physical and virtual spaces. As users engage with home automation and connected environments, spatial understanding aids in seamless integration and interaction.
 
 ## how-it-manifests
-Spatial intelligence may manifest in OpenHome through features such as 3D mapping, augmented reality interfaces, and tools that support environmental awareness. Users can leverage this intelligence for more effective maneuvering within the platform, whether it’s in physical or digital spaces.
+While specific implementations of spatial intelligence within the OpenHome platform are not detailed, potential manifestations could include features that allow users to visually map their smart home setups, effectively manage device placements, and enable spatial navigation of virtual environments. Further development is expected to leverage spatial intelligence for more immersive and responsive user experiences.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,5 +23,5 @@ Spatial intelligence may manifest in OpenHome through features such as 3D mappin
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-06T17:43:06Z -->
+<!-- synthesized: 2026-11-07T16:39:52Z -->
 ```
