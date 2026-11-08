@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: Web3 Native
+title: Web3-Native
 entity_type: concepts
 status: stub
-last_updated: 2026-11-07
+last_updated: 2026-11-08
 ---
 
-## definition
-Web3 Native refers to applications and services that are built on decentralized networks and harness blockchain technologies, promoting user sovereignty and privacy.
+### definition
+Web3-native refers to applications, platforms, and services that are built from the ground up using decentralized technologies, primarily the blockchain, to provide users with more control, privacy, and ownership over their digital experiences.
 
-## why-it-matters
-The Web3 Native concept is crucial for OpenHome as it aligns with the platform’s vision of decentralization, empowering users to control their own data and interactions without reliance on centralized entities. This enhances security and fosters a trustless ecosystem.
+### why-it-matters
+The Web3-native approach is integral to OpenHome as it emphasizes user-centric models and empowers individuals by leveraging decentralized technologies. This paradigm shift away from traditional centralized systems aligns with the core values of privacy, transparency, and community governance that OpenHome advocates for.
 
-## how-it-manifests
-Though specific implementations within OpenHome are not documented, the Web3 Native concept may manifest through decentralized identity solutions, peer-to-peer interactions, and integration with blockchain-based protocols that enhance user agency and privacy.
+### how-it-manifests
+In OpenHome, the principles of being web3-native may manifest through features such as user-owned data, decentralized identity verification, and peer-to-peer interactions. These elements promote autonomy and facilitate a more equitable digital environment.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +23,5 @@ Though specific implementations within OpenHome are not documented, the Web3 Nat
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-07T16:39:52Z -->
+<!-- synthesized: 2026-11-08T16:47:59Z -->
 ```

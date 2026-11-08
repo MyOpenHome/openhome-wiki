@@ -3,23 +3,25 @@
 title: pmckelvy
 entity_type: builders/
 status: stub
-last_updated: 2026-11-07
+last_updated: 2026-11-08
 ---
 
 ### who-they-are
-pmckelvy is an active community builder affiliated with the devkit project. Details regarding their background and specific initiatives they are pursuing remain undisclosed.
+pmckelvy is an active community builder associated with the Homie project. 
 
 ### what-they-built
-Information regarding any shipped abilities or integrations by pmckelvy is currently unavailable.
+No specific abilities or integrations have been documented for pmckelvy yet.
 
 ### grant-status
 none
 
 ### how-to-reach
-Details about how to contact pmckelvy, including their Discord handle, GitHub, and X accounts, have not been provided.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[wikilink-to-abilities]]
+[[Homie]]
 
-<!-- synthesized: 2026-11-07T16:39:52Z -->
+<!-- synthesized: 2026-11-08T16:47:59Z -->
 ```
