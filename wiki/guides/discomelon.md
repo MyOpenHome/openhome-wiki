@@ -1,23 +1,24 @@
 ```markdown
 ---
-title: discomelon
+title: Discomelon
 entity_type: guides/
 status: stub
-last_updated: 2026-11-08
+last_updated: 2026-11-09
 ---
 
 ### who-they-are
-Information about discomelon is currently limited, and specific background or expertise has not been provided.
+Discomelon is part of the community guide initiative, aimed at helping new users navigate challenges and optimize their experience within the community.
 
 ### what-they-help-with
-Details regarding the specific specialties or abilities of discomelon have not been documented.
+Discomelon specializes in providing assistance for community engagement, best practices, and resource navigation. Their expertise may cover various subjects relevant to the community.
 
 ### how-to-reach
-No Discord handle or contact information for discomelon is currently available.
+You can reach Discomelon on Discord. Further details about their Discord handle are currently unavailable.
 
 ## connects-to
-[[guides/]]
+[[community guides]]
 [[Discord]]
-
-<!-- synthesized: 2026-11-08T16:47:59Z -->
+[[user onboarding]]
+[[best practices]]
+<!-- synthesized: 2026-11-09T21:08:54Z -->
 ```

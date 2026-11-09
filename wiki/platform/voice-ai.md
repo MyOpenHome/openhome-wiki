@@ -1,26 +1,26 @@
 ```yaml
-title: Voice AI Platform
-entity_type: platform/voice-ai
-status: planned
-last_updated: 2026-11-08
+title: Voice AI
+entity_type: platform
+status: stub
+last_updated: 2026-11-09
 ```
 
-# what-it-is
-The Voice AI platform is a component of the OpenHome ecosystem designed to facilitate voice recognition and artificial intelligence interactions through smart devices.
+## what-it-is
+Voice AI is a technology that enables users to interact with devices and services using natural language speech. It encompasses various applications, including virtual assistants, speech recognition systems, and conversational interfaces.
 
-# how-it-works
-The Voice AI integrates with various OpenHome devices, allowing users to interact via voice commands. The technology leverages natural language processing (NLP) to understand and respond to user requests, enabling seamless control over connected devices and access to information. The architecture is built upon cloud services and edge computing to ensure quick responses and reliability, while preserving user privacy and data security.
+## how-it-works
+Voice AI operates through a combination of speech recognition and natural language processing (NLP) technologies. Users provide input via spoken commands, which are converted into text by speech recognition algorithms. The system then processes the text to understand user intent, leveraging NLP to determine the appropriate response or action, often interfacing with other platform components to fulfill requests.
 
-# current-status
-planned
+## current-status
+stub
 
 ## connects-to
-[[platform/openhome]]
-[[platform/speakers]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+[[platform/openhome]]  
+[[platform/speakers]]  
+[[platform/abilities]]  
+[[platform/dashboard]]  
+[[platform/local-link]]  
+[[platform/marketplace]]  
+[[platform/live-editor]]  
 
-<!-- synthesized: 2026-11-08T16:47:59Z -->
+<!-- synthesized: 2026-11-09T21:08:54Z -->
