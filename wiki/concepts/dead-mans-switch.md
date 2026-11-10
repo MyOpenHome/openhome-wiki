@@ -1,23 +1,27 @@
-```yaml
+```markdown
+---
 title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-11-09
+last_updated: 2026-11-10
+---
+
+### definition
+A dead man's switch is a safety mechanism that automatically performs a specific action, typically to ensure the safety or security of a system, when the operator becomes incapacitated or is no longer able to perform their duties.
+
+### why-it-matters
+The concept of a dead man's switch is relevant to OpenHome as it enhances the system's resilience and user safety, ensuring that critical processes can continue or properly terminate in the absence of user input. This is particularly important in contexts where continuous operation and user security are a priority.
+
+### how-it-manifests
+While specific implementations of a dead man's switch within OpenHome are not detailed, such mechanisms could manifest in various applications that require constant oversight or interactivity. This could range from automated systems managing digital assets to user-driven environments that necessitate safety protocols during inactivity.
+
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
+
+<!-- synthesized: 2026-11-10T18:19:54Z -->
 ```
-
-## definition
-A dead man's switch is a safety mechanism used to prevent unwanted outcomes in systems, where an action is automatically triggered if a user becomes incapacitated or fails to respond in a specified timeframe.
-
-## why-it-matters
-In the context of OpenHome, dead man's switches can provide assurance of security, facilitating automated responses to ensure continuity of function or safety in critical situations. This mechanism helps protect users and their data by ensuring that certain actions are taken if they are unable to manually intervene.
-
-## how-it-manifests
-The dead man's switch concept may appear in various applications within the OpenHome platform, ensuring user safety and data protection. It can be utilized in scenarios such as automated notifications to trusted contacts or system shutdowns when the user is unresponsive.
-
-## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/grant-program]]  
-
-<!-- synthesized: 2026-11-09T21:08:54Z -->

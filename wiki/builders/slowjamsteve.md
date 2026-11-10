@@ -3,27 +3,26 @@
 title: builders/slowjamsteve
 entity_type: builder
 status: stub
-last_updated: 2026-11-09
+last_updated: 2026-11-10
 ---
 
 ### who-they-are
-Slowjamsteve is an active community builder and holder of the devkit, contributing to the creation of various abilities within the community.
+Slowjamsteve is an active member of the development community, recognized for contributions in building tools and features that enhance usability within the ecosystem. As a devkit holder, they are engaged in creating new experiences for users.
 
 ### what-they-built
-Details regarding specific abilities or integrations that Slowjamsteve has shipped are currently unavailable.
+Information on specific abilities or integrations that Slowjamsteve has shipped is not currently available.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Not provided  
-GitHub: Not provided  
-X: Not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[abilities]]
-[[community builders]]
-[[devkit holders]]
+[[integrations]]
 
-<!-- synthesized: 2026-11-09T21:08:54Z -->
+<!-- synthesized: 2026-11-10T18:19:54Z -->
 ```

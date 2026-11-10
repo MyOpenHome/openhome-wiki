@@ -1,21 +1,22 @@
 ```markdown
 ---
-title: team/shannon
+title: Team Shannon
 entity_type: team
-status: live
-last_updated: 2026-11-09
+status: stub
+last_updated: 2026-11-10
 ---
 
 ### who-they-are
-Shannon is the CEO of OpenHome. With a background in technology and leadership, she spearheads the strategic direction of the organization and plays a pivotal role in driving the company's mission forward.
+Shannon serves as the CEO at OpenHome. Additional background information is currently unavailable.
 
 ### what-they-own
-Shannon leads the overall management and vision of OpenHome, overseeing all major initiatives and ensuring alignment with company objectives.
+The specific areas of the OpenHome platform that Shannon leads have not been detailed.
 
 ### how-to-reach
-Discord handle: @openhome
+Shannon can be reached on Discord and is also active on X/Twitter under the handle @openhome.
 
-### connects-to
+## connects-to
 [[team/jesse]]
-<!-- synthesized: 2026-11-09T21:08:54Z -->
+
+<!-- synthesized: 2026-11-10T18:19:54Z -->
 ```
