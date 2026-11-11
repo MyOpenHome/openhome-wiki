@@ -3,28 +3,28 @@
 title: abilities/news-brief
 entity_type: abilities
 status: stub
-last_updated: 2026-11-10
+last_updated: 2026-11-11
 ---
 
 ### what-it-does
-The News Brief ability is designed to provide users with concise updates and summaries of the latest news. It captures relevant information and delivers it in an easily digestible format.
+News Brief is an ability designed to deliver concise updates and summaries of current events, enabling users to stay informed with minimal effort.
 
 ### how-to-build
-Details on the API surface and builder notes for creating the News Brief ability are currently unavailable. Further information will be required to outline specific implementation details.
+Details on how to build the News Brief ability are currently unavailable. This page will be updated with builder notes and API surface as they become available.
 
 ### category
 utility
 
 ### built-by
-[[builder-name]]
+[[User:BuilderName]] 
 
 ### status
 stub
 
 ## connects-to
-[[abilities/aquaprime]]
-[[abilities/deadman-fm]]
-[[abilities/trivia]]
+[[abilities/aquaprime]]  
+[[abilities/deadman-fm]]  
+[[abilities/trivia]]  
 
-<!-- synthesized: 2026-11-10T18:19:54Z -->
+<!-- synthesized: 2026-11-11T18:09:51Z -->
 ```

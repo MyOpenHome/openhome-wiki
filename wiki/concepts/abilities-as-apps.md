@@ -1,18 +1,18 @@
 ```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: live
-last_updated: 2026-11-10
+status: stub
+last_updated: 2026-11-11
 ```
 
 ## definition
-Abilities-as-apps refer to the concept of treating individual capabilities or functionalities within a digital ecosystem as discrete applications. Each ability can be activated, controlled, and customized by users, enabling a tailored experience that meets specific needs.
+Abilities-as-apps represent a framework where abilities or functionalities are encapsulated as standalone applications within the OpenHome ecosystem. This concept allows users to access and interact with various capabilities in a modular manner, enhancing personalization and flexibility.
 
 ## why-it-matters
-This concept is significant to OpenHome as it promotes flexibility and user empowerment. By allowing users to manage and interact with capabilities independently, it fosters an environment where personalization and adaptability enhance the overall user experience.
+This concept is crucial for OpenHome as it enables a richer user experience by allowing individuals to customize their environments based on specific needs and preferences. It supports a diverse range of functionalities, thereby promoting user autonomy and innovation in how tools are utilized.
 
 ## how-it-manifests
-In the OpenHome platform, abilities-as-apps can be seen in features that enable users to select and integrate specific functionalities into their home management systems. This modular approach allows for easier updates and the introduction of new abilities without overhauling the entire system.
+The abilities-as-apps concept manifests in the platform through the deployment of various applications that can be installed or activated by users. This modular approach encourages the development of unique abilities tailored to meet different user requirements, making the platform versatile and dynamic.
 
 ## connects-to
 [[concepts/voice-first]]
@@ -22,4 +22,4 @@ In the OpenHome platform, abilities-as-apps can be seen in features that enable 
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-10T18:19:54Z -->
+<!-- synthesized: 2026-11-11T18:09:51Z -->

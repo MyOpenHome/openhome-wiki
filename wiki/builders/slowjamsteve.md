@@ -1,28 +1,24 @@
 ```markdown
 ---
-title: builders/slowjamsteve
-entity_type: builder
+title: SlowJamSteve
+entity_type: builders
 status: stub
-last_updated: 2026-11-10
+last_updated: 2026-11-11
 ---
 
 ### who-they-are
-Slowjamsteve is an active member of the development community, recognized for contributions in building tools and features that enhance usability within the ecosystem. As a devkit holder, they are engaged in creating new experiences for users.
+SlowJamSteve is a community builder engaged with the Homie + User roles. Details about their background and specific focus within the community are currently not available.
 
 ### what-they-built
-Information on specific abilities or integrations that Slowjamsteve has shipped is not currently available.
+Information regarding any shipped abilities or integrations by SlowJamSteve is not yet documented.
 
 ### grant-status
-none
+Grant status for SlowJamSteve is currently not specified.
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Contact information for SlowJamSteve, including Discord handle, GitHub, or X accounts, is not available.
 
 ## connects-to
-[[abilities]]
-[[integrations]]
-
-<!-- synthesized: 2026-11-10T18:19:54Z -->
+[[wikilinks]]
+<!-- synthesized: 2026-11-11T18:09:51Z -->
 ```

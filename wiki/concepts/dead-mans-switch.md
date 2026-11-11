@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Dead Man's Switch
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-11-10
+last_updated: 2026-11-11
 ---
 
 ### definition
-A dead man's switch is a safety mechanism that automatically performs a specific action, typically to ensure the safety or security of a system, when the operator becomes incapacitated or is no longer able to perform their duties.
+A dead man's switch is a safety mechanism that automatically triggers an action if the operator becomes incapacitated or fails to respond. In the context of technology, it often refers to digital tools or systems designed to ensure continuity or to prevent unintended outcomes in the case of a user's absence.
 
 ### why-it-matters
-The concept of a dead man's switch is relevant to OpenHome as it enhances the system's resilience and user safety, ensuring that critical processes can continue or properly terminate in the absence of user input. This is particularly important in contexts where continuous operation and user security are a priority.
+In OpenHome, implementing a dead man's switch is crucial for ensuring user safety and security. It helps to automate critical processes and services, allowing for reliability in scenarios where human oversight may be compromised. This concept fosters trust in automated systems by ensuring that necessary actions are taken even in unforeseen circumstances.
 
 ### how-it-manifests
-While specific implementations of a dead man's switch within OpenHome are not detailed, such mechanisms could manifest in various applications that require constant oversight or interactivity. This could range from automated systems managing digital assets to user-driven environments that necessitate safety protocols during inactivity.
+The dead man's switch can manifest in various forms on the OpenHome platform, such as automatic notifications to trusted contacts if a user does not interact with their application for a specified period, or triggering specific fallback mechanisms in household systems. These implementations help maintain user engagement and protect against accidents or emergencies.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations of a dead man's switch within OpenHome are not de
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-10T18:19:54Z -->
+<!-- synthesized: 2026-11-11T18:09:51Z -->
 ```

@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: Platform Dashboard
-entity_type: platform
+entity_type: platform/dashboard
 status: stub
-last_updated: 2026-11-10
+last_updated: 2026-11-11
 ---
 
 ### what-it-is
-The Platform Dashboard is a user interface component of the OpenHome platform that provides users with access to various features, insights, and controls related to their home automation system.
+The platform/dashboard serves as the user interface for managing and monitoring various functionalities within the OpenHome ecosystem.
 
 ### how-it-works
-The Platform Dashboard aggregates data and functionalities from different components of the OpenHome ecosystem. It is designed to offer users an intuitive way to monitor and manage connected devices, visualize usage statistics, and customize settings. The dashboard typically displays information related to home security, energy consumption, device status, and available automation options, facilitating a seamless user experience.
+The dashboard provides users with a centralized view of their devices, allowing for seamless control and configuration. It aggregates data from connected devices and services, providing real-time insights and management tools tailored for individual user needs.
 
 ### current-status
 stub
@@ -24,5 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-11-10T18:19:54Z -->
+<!-- synthesized: 2026-11-11T18:09:51Z -->
 ```

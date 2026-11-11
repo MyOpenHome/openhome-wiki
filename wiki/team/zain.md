@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Zain
+title: Team Zain
 entity_type: team
 status: stub
-last_updated: 2026-11-10
+last_updated: 2026-11-11
 ---
 
 ### who-they-are
-Zain is a member of the OpenHome team, specifically holding the role of a team member. Background information is currently unavailable.
+Zain is a member of the OpenHome team, holding a key role in the organization. Further details regarding their specific role and background are currently unavailable.
 
 ### what-they-own
-Details regarding the areas of the OpenHome platform that Zain leads are not provided.
+Zain leads several initiatives within the OpenHome platform, though specific areas of ownership have not been documented yet.
 
 ### how-to-reach
-Contact information for Zain, including Discord handle or social media, has not been specified.
+Zain's preferred contact information, including their Discord handle or social media presence, has not been provided.
 
-### connects-to
-[[team/jesse]]  
-[[team/shannon]]  
+## connects-to
+[[team/jesse]]
+[[team/shannon]]
 
-<!-- synthesized: 2026-11-10T18:19:54Z -->
+<!-- synthesized: 2026-11-11T18:09:51Z -->
 ```

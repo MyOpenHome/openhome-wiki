@@ -3,27 +3,24 @@
 title: builders/pmckelvy
 entity_type: builder
 status: stub
-last_updated: 2026-11-10
+last_updated: 2026-11-11
 ---
 
 ### who-they-are
-pmckelvy is an active member of the community, known for their involvement in building innovative solutions and integrations within the ecosystem.
+pmckelvy is a community builder active in the development space, focusing on creating integrations and enhancing capabilities within the ecosystem.
 
 ### what-they-built
-Details regarding specific abilities or integrations shipped by pmckelvy are currently unavailable.
+Details on specific abilities or integrations shipped by pmckelvy are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord: @pmckelvy  
-GitHub: [pmckelvy](https://github.com/pmckelvy)  
-X: [@pmckelvy](https://twitter.com/pmckelvy)
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[builders]]
-[[integrations]]
-[[community]]
-
-<!-- synthesized: 2026-11-10T18:19:54Z -->
+[[wikilinks]]
+<!-- synthesized: 2026-11-11T18:09:51Z -->
 ```
