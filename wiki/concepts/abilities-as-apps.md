@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-11-11
+last_updated: 2026-11-12
+---
+
+### definition
+Abilities-as-apps refer to a framework where capabilities or functionalities are encapsulated as individual applications within the OpenHome ecosystem. This concept facilitates modular and easily deployable features that enhance user experience.
+
+### why-it-matters
+This concept is crucial for OpenHome as it promotes flexibility and customization, allowing users to select and implement specific abilities that cater to their unique needs. By treating capabilities as standalone applications, OpenHome can rapidly evolve and integrate new features in response to user feedback and technological advancements.
+
+### how-it-manifests
+Abilities-as-apps can be observed in the way users interact with OpenHome's interface, allowing for the seamless addition or removal of functionalities depending on personal preferences. The modular nature of these abilities ensures that users can create a tailored experience without overwhelming complexity.
+
+### connects-to
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+
+<!-- synthesized: 2026-11-12T18:37:54Z -->
 ```
-
-## definition
-Abilities-as-apps represent a framework where abilities or functionalities are encapsulated as standalone applications within the OpenHome ecosystem. This concept allows users to access and interact with various capabilities in a modular manner, enhancing personalization and flexibility.
-
-## why-it-matters
-This concept is crucial for OpenHome as it enables a richer user experience by allowing individuals to customize their environments based on specific needs and preferences. It supports a diverse range of functionalities, thereby promoting user autonomy and innovation in how tools are utilized.
-
-## how-it-manifests
-The abilities-as-apps concept manifests in the platform through the deployment of various applications that can be installed or activated by users. This modular approach encourages the development of unique abilities tailored to meet different user requirements, making the platform versatile and dynamic.
-
-## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-11-11T18:09:51Z -->

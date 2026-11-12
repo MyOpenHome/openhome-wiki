@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Voice-First
+title: concepts/voice-first
 entity_type: concepts
 status: stub
-last_updated: 2026-11-11
+last_updated: 2026-11-12
 ---
 
 ### definition
-Voice-first refers to an interaction paradigm where users engage with technology primarily through voice commands and responses, rather than relying on traditional interfaces like screens and keyboards. This approach leverages natural language processing and speech recognition to create seamless and intuitive user experiences.
+Voice-first refers to technology and platforms that prioritize voice interaction as the primary mode of communication between users and devices, enhancing user experience by allowing hands-free and natural dialogue.
 
 ### why-it-matters
-Voice-first technologies are significant for OpenHome as they enhance accessibility and provide users with a more organic way of interacting with their environments. In an age where multitasking is common, the ability to use voice as a primary mode of interaction allows for greater efficiency and convenience. This aligns with the goals of OpenHome to create user-friendly and adaptable environments.
+The voice-first paradigm plays a significant role in OpenHome by enabling a more intuitive and accessible way for users to interact with their living spaces and services, thus fostering a seamless integration of technology into daily life.
 
 ### how-it-manifests
-In the OpenHome platform, voice-first functionality can be observed in various applications and services that integrate voice recognition capabilities. Users may control devices, access information, or execute commands using only their voice, making interactions faster and more convenient. The emphasis on voice-first interfaces aims to create a more immersive and engaging user experience.
+In the OpenHome platform, voice-first is incorporated into smart home devices, allowing users to control various functionalities through voice commands. This capability enhances ease of use and promotes a more interactive environment within homes.
 
 ### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-11T18:09:51Z -->
+<!-- synthesized: 2026-11-12T18:37:54Z -->
 ```

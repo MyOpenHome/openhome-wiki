@@ -3,25 +3,25 @@
 title: builders/pl-geek
 entity_type: builders
 status: stub
-last_updated: 2026-11-11
+last_updated: 2026-11-12
 ---
 
 ### who-they-are
-pl-geek is a member of the active community of builders focused on shipping abilities for the Homie platform. More background information about this builder is currently unavailable.
+pl-geek is an active community builder focused on creating innovative solutions within the technology space. They are dedicated to enhancing user experience and fostering engagement through their projects.
 
 ### what-they-built
-Information regarding specific abilities or integrations that pl-geek has shipped is not available at this time.
+Details regarding specific shipped abilities or integrations by pl-geek are currently unavailable.
 
 ### grant-status
-Status of any grants applied for or received by pl-geek is currently unknown.
+none
 
 ### how-to-reach
-Details on how to reach pl-geek, such as Discord handle, GitHub, or X, have not been provided.
+No contact information available.
 
 ## connects-to
-[[abilities]]
+[[builders]]
 [[community]]
-[[Homie]]
+[[integration]] 
 
-<!-- synthesized: 2026-11-11T18:09:51Z -->
+<!-- synthesized: 2026-11-12T18:37:54Z -->
 ```

@@ -1,23 +1,26 @@
 ```markdown
 ---
-title: "Kaeden"
-entity_type: "team/"
-status: "stub"
-last_updated: 2026-11-11
+title: Kaeden
+entity_type: team
+status: stub
+last_updated: 2026-11-12
 ---
 
 ### who-they-are
-Kaeden holds a role within the Core OpenHome team, contributing to the organization with expertise in their designated area.
+Role at OpenHome: Unknown  
+Background: Unknown
 
 ### what-they-own
-Specific areas of the OpenHome platform that Kaeden leads have not been detailed in the available information.
+Areas of the platform they lead: Unknown
 
 ### how-to-reach
-Contact information for Kaeden is currently not provided.
+Discord handle: Unknown  
+X/Twitter: Unknown  
+Preferred contact: Unknown
 
 ### connects-to
-[[team/jesse]]
-[[team/shannon]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-11-11T18:09:51Z -->
+<!-- synthesized: 2026-11-12T18:37:54Z -->
 ```

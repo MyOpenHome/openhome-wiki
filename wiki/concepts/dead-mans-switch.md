@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: Dead Man's Switch
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-11-11
----
+last_updated: 2026-11-12
+```
 
-### definition
-A dead man's switch is a safety mechanism that automatically triggers an action if the operator becomes incapacitated or fails to respond. In the context of technology, it often refers to digital tools or systems designed to ensure continuity or to prevent unintended outcomes in the case of a user's absence.
+## definition
+A dead man's switch is a safety mechanism that automatically performs a function or triggers an alert if the operator becomes incapacitated or fails to act within a specified timeframe. This concept is often used in various systems to prevent accidents and ensure that actions are taken when necessary.
 
-### why-it-matters
-In OpenHome, implementing a dead man's switch is crucial for ensuring user safety and security. It helps to automate critical processes and services, allowing for reliability in scenarios where human oversight may be compromised. This concept fosters trust in automated systems by ensuring that necessary actions are taken even in unforeseen circumstances.
+## why-it-matters
+In the OpenHome platform, the dead man's switch serves as a critical feature for ensuring user safety and system reliability. By implementing such a switch, the platform can enhance trust among users, ensuring that actions related to their home automation or personal safety are executed, even in unforeseen circumstances.
 
-### how-it-manifests
-The dead man's switch can manifest in various forms on the OpenHome platform, such as automatic notifications to trusted contacts if a user does not interact with their application for a specified period, or triggering specific fallback mechanisms in household systems. These implementations help maintain user engagement and protect against accidents or emergencies.
+## how-it-manifests
+The dead man's switch may manifest in OpenHome through automated alerts or actions that are triggered when a user stops interacting with a system or device. For example, if a user is using an automation feature and becomes unresponsive, the system might initiate a predetermined safety protocol, such as shutting down devices or notifying emergency contacts.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/local-first]]
@@ -23,5 +22,5 @@ The dead man's switch can manifest in various forms on the OpenHome platform, su
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-11T18:09:51Z -->
+<!-- synthesized: 2026-11-12T18:37:54Z -->
 ```

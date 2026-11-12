@@ -1,19 +1,18 @@
-```markdown
----
+```yaml
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-11-11
----
+last_updated: 2026-11-12
+```
 
 ## definition
-Spatial Intelligence refers to the ability to visualize and manipulate three-dimensional spaces, understanding how objects fit into a spatial context. It involves the capacity to think in terms of physical relationships and navigate environments effectively.
+Spatial intelligence refers to the capability to visualize and manipulate spatial relationships and understand the spatial orientation of objects in one's environment.
 
 ## why-it-matters
-In the context of OpenHome, Spatial Intelligence is crucial as it underpins how users interact with their physical environment and the digital tools available. By integrating spatial awareness into the platform, OpenHome can enhance user experiences, provide intuitive navigation, and promote seamless interaction with spatially-organized data.
+In the context of OpenHome, spatial intelligence is essential for enhancing user interactions within the platform by enabling intuitive navigation and interaction with spatial data. It supports effective organization and presentation of spatial information, making the platform more user-friendly and efficient.
 
 ## how-it-manifests
-Currently, specific applications of Spatial Intelligence within the OpenHome platform are not detailed. However, it can be expected to manifest in functionalities such as augmented reality features, navigation tools, and spatial mapping that assist users in understanding and interacting with their physical spaces in relation to digital content.
+Spatial intelligence appears in OpenHome through features that require users to engage with spatial data, such as map interfaces, layout designs, and augmented reality functionalities. It manifests in ways that enhance user experiences by providing tools that leverage spatial awareness and understanding.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +22,4 @@ Currently, specific applications of Spatial Intelligence within the OpenHome pla
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-11T18:09:51Z -->
-```
+<!-- synthesized: 2026-11-12T18:37:54Z -->

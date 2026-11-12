@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: "Shookdt"
-entity_type: "builders"
-status: "stub"
-last_updated: 2026-11-11
+title: builders/shookdt
+entity_type: builders
+status: stub
+last_updated: 2026-11-12
 ---
 
 ## who-they-are
-Shookdt is a community builder and devkit holder actively participating in the Homie ecosystem. Specifics about their background and the projects they are working on are currently unavailable.
+Shookdt is an active community builder, recognized for their contributions within the development ecosystem. As a devkit holder, they are engaged in creating and shipping innovative abilities.
 
 ## what-they-built
-As of now, there is no information on any shipped abilities or integrations that Shookdt has contributed to.
+Currently, there are no specific shipped abilities or integrations detailed in the available information.
 
 ## grant-status
-There is no information regarding any grant applications or funding status for Shookdt.
+none
 
 ## how-to-reach
-Contact information including Discord handle, GitHub, and X is currently not available. 
+No specific contact information such as Discord handle or GitHub profile is available at this time.
 
 ## connects-to
-Currently, there are no abilities or integrations linked to Shookdt.
+[[wikilink1]]
+[[wikilink2]]
+[[wikilink3]]
 
-<!-- synthesized: 2026-11-11T18:09:51Z -->
+<!-- synthesized: 2026-11-12T18:37:54Z -->
 ```
