@@ -1,16 +1,16 @@
 ```markdown
 ---
 title: builders/nicholas3415
-entity_type: builders
+entity_type: builder
 status: stub
-last_updated: 2026-11-12
+last_updated: 2026-11-13
 ---
 
 ### who-they-are
-Nicholas3415 is a community builder who holds developer kit (devkit) capabilities. They are actively engaged in projects that enhance user experiences within their respective platforms.
+Nicholas3415 is a member of the active community of builders, holding a devkit and engaged in developing various integrations and abilities.
 
 ### what-they-built
-Detailed information on shipped abilities or integrations by Nicholas3415 is currently unavailable.
+Information regarding specific shipped abilities or integrations by Nicholas3415 is not currently available.
 
 ### grant-status
 none
@@ -21,9 +21,7 @@ none
 - X: Not specified
 
 ## connects-to
-[[wikilink1]]  
-[[wikilink2]]  
-[[wikilink3]]  
+[[wikilink-to-abilities]]
 
-<!-- synthesized: 2026-11-12T18:37:54Z -->
+<!-- synthesized: 2026-11-13T18:12:28Z -->
 ```

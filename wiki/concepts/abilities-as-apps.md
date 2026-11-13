@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: concepts/abilities-as-apps
+title: Abilities as Apps
 entity_type: concepts
 status: stub
-last_updated: 2026-11-12
+last_updated: 2026-11-13
 ---
 
 ### definition
-Abilities-as-apps refer to a framework where capabilities or functionalities are encapsulated as individual applications within the OpenHome ecosystem. This concept facilitates modular and easily deployable features that enhance user experience.
+Abilities as Apps is a concept in OpenHome that refers to the way in which various functionalities, or "abilities," are structured and accessed as individual applications. This design allows users to engage with specific features directly, fostering ease of use and enhancing the interactive experience.
 
 ### why-it-matters
-This concept is crucial for OpenHome as it promotes flexibility and customization, allowing users to select and implement specific abilities that cater to their unique needs. By treating capabilities as standalone applications, OpenHome can rapidly evolve and integrate new features in response to user feedback and technological advancements.
+This concept is significant to OpenHome because it streamlines the user experience by allowing users to access and utilize different capabilities in a more modular fashion. By treating abilities as standalone apps, users can customize their interactions and optimize their specific needs without navigating through a more complex interface.
 
 ### how-it-manifests
-Abilities-as-apps can be observed in the way users interact with OpenHome's interface, allowing for the seamless addition or removal of functionalities depending on personal preferences. The modular nature of these abilities ensures that users can create a tailored experience without overwhelming complexity.
+Within the OpenHome platform, abilities as apps appear as distinct modules or features that users can select and activate. This modularity can provide increased flexibility, allowing users to adapt their environment in a way that best suits their preferences and requirements.
 
 ### connects-to
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-12T18:37:54Z -->
+<!-- synthesized: 2026-11-13T18:12:28Z -->
 ```

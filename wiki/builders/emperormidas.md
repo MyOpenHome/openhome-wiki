@@ -1,28 +1,26 @@
 ```markdown
 ---
 title: Emperormidas
-entity_type: builders/emperormidas
+entity_type: builders
 status: stub
-last_updated: 2026-11-12
+last_updated: 2026-11-13
 ---
 
 ### who-they-are
-Emperormidas is a community builder associated with the Homie + User roles, actively involved in developing initiatives for the platform.
+Emperormidas is a community builder involved in developing integrations and abilities for the Homie platform. Further details about their background and specific projects are currently lacking.
 
 ### what-they-built
-Details regarding specific shipped abilities or integrations by Emperormidas are currently unavailable.
+Information regarding specific abilities or integrations that Emperormidas has shipped is not available at this time.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-X: Unknown  
+Contact details for Emperormidas, including their Discord handle, GitHub, and X account, are not provided.
 
 ## connects-to
-[[builders]]
-[[Homie + User roles]]
+[[abilities]]
+[[integrations]]
 
-<!-- synthesized: 2026-11-12T18:37:54Z -->
+<!-- synthesized: 2026-11-13T18:12:28Z -->
 ```

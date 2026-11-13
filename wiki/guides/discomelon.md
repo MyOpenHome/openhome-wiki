@@ -1,24 +1,25 @@
 ```markdown
 ---
-title: "discomelon"
-entity_type: "guides/"
-status: "stub"
-last_updated: 2026-11-12
+title: discomelon
+entity_type: guides/
+status: stub
+last_updated: 2026-11-13
 ---
 
 ### who-they-are
-Discomelon is a community guide focusing on helping users with various aspects of online engagement and collaboration.
+Discomelon is a community guide with expertise pertaining to various user onboarding and experience enhancement within online platforms, particularly involving Discord.
 
 ### what-they-help-with
-Discomelon specializes in onboarding new users, providing support with community tools, and facilitating understanding of Discord protocols.
+They specialize in helping users navigate Discord functionalities and enhance their experience through effective communication and community engagement strategies.
 
 ### how-to-reach
-You can reach Discomelon on Discord. Specific handle information is currently unavailable.
+Discord handle: Not specified.
 
 ## connects-to
-[[guides]] 
-[[Discord]] 
-[[community onboarding]]
+[[guides]]
+[[Discord]]
+[[community]]
+[[user onboarding]]
 
-<!-- synthesized: 2026-11-12T18:37:54Z -->
+<!-- synthesized: 2026-11-13T18:12:28Z -->
 ```
