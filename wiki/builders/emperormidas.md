@@ -1,26 +1,28 @@
 ```markdown
 ---
-title: Emperormidas
-entity_type: builders
-status: stub
-last_updated: 2026-11-13
+title: "Emperor Midas"
+entity_type: "builders/"
+status: "stub"
+last_updated: 2026-11-14
 ---
 
 ### who-they-are
-Emperormidas is a community builder involved in developing integrations and abilities for the Homie platform. Further details about their background and specific projects are currently lacking.
+Emperor Midas is a member of the active community of builders within the Homie ecosystem, focusing on leveraging the DevKit for innovative solutions. 
 
 ### what-they-built
-Information regarding specific abilities or integrations that Emperormidas has shipped is not available at this time.
+Information about specific abilities or integrations shipped by Emperor Midas is currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-Contact details for Emperormidas, including their Discord handle, GitHub, and X account, are not provided.
+- Discord: information not available
+- GitHub: information not available
+- X (formerly Twitter): information not available
 
 ## connects-to
-[[abilities]]
-[[integrations]]
-
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+[[builders]]
+[[Homie ecosystem]]
+[[DevKit]]
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

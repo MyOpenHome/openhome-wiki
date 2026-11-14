@@ -3,24 +3,25 @@
 title: web3-native
 entity_type: concepts
 status: stub
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 ---
 
 ### definition
-Web3-native refers to applications and platforms that are built on web3 technologies, which emphasize decentralization, user ownership, and blockchain integration. This concept centers around utilizing peer-to-peer networks to enable a new era of internet applications that prioritize transparency and user sovereignty.
+Web3-native refers to technologies, applications, and platforms built on decentralized networks that leverage blockchain and related technologies. This concept embodies the shift towards user empowerment, data ownership, and decentralized governance in the digital ecosystem.
 
 ### why-it-matters
-Web3-native technologies are crucial for OpenHome as they align with the platform's commitment to decentralization and user empowerment. By leveraging these technologies, OpenHome can create an environment where users have control over their data and interactions, fostering trust and collaboration within the community.
+Understanding web3-native concepts is crucial for OpenHome as it aligns with the platform's core values of decentralization, user control, and fostering a more equitable digital environment. These principles enable OpenHome to prioritize user privacy, security, and community-driven initiatives.
 
 ### how-it-manifests
-In OpenHome, web3-native concepts may manifest through decentralized applications (dApps) that operate on blockchain networks, employing smart contracts and token-based economies. These features enable users to engage in transactions without intermediaries, participate in governance through decentralized decision-making processes, and benefit from the interoperability of various web3 services.
+While specific implementations of web3-native within OpenHome are not detailed in the current information, it generally encompasses elements like decentralized applications (dApps), smart contracts, and community-based governance mechanisms that empower users to shape their digital experiences in meaningful ways.
 
 ### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

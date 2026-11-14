@@ -3,24 +3,23 @@
 title: pmckelvy
 entity_type: builders/
 status: stub
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 ---
 
 ### who-they-are
-pmckelvy is an active community builder and a holder of developer kits. They are engaged in developing and contributing to the ecosystem by creating various tools and integrations.
+Information about the background of pmckelvy and what they are building is currently not available.
 
 ### what-they-built
-Details about specific abilities or integrations built by pmckelvy are currently not available.
+Details on the abilities or integrations shipped by pmckelvy are not provided.
 
 ### grant-status
-none
+Status of grant applications for pmckelvy is unknown.
 
 ### how-to-reach
-No specific contact details available. Discord handle, GitHub, and X information are not provided.
+Contact information for pmckelvy is not available.
 
 ## connects-to
-[[builders/]]
-[[abilities]]
+[[abilities]] <!-- Replace with relevant abilities if known -->
 
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

@@ -2,20 +2,20 @@
 ---
 title: Local-First
 entity_type: concepts
-status: live
-last_updated: 2026-11-13
+status: stub
+last_updated: 2026-11-14
 ---
 
-## definition
-Local-first is a principle in software design that emphasizes the importance of local data storage and processing. This approach allows applications to operate effectively even in the absence of a reliable internet connection, enabling users to interact with their data locally before syncing it to the cloud or a server when connectivity is available.
+### definition
+Local-first is a design principle in software development that prioritizes local data management on user devices, allowing applications to function effectively even in low or no internet connectivity environments. This concept promotes the idea that applications should store and process data primarily on the user's device rather than relying heavily on remote servers.
 
-## why-it-matters
-In the context of OpenHome, local-first is crucial because it ensures that user experiences are resilient and uninterrupted, promoting user autonomy and control over their data. This concept supports seamless functionality regardless of network conditions, which is particularly important in diverse and fluctuating connectivity environments.
+### why-it-matters
+Local-first is essential to OpenHome as it enhances user control over personal data and promotes privacy. By reducing dependence on constant internet access, it ensures that users can rely on applications in various environments, thus fostering a more resilient and user-centric ecosystem.
 
-## how-it-manifests
-Local-first is manifested in OpenHome through features that prioritize local data processing, such as offline capabilities for applications, local data storage options, and intelligent syncing that minimizes disruption. This design enables users to work with their data anytime and anywhere, reflecting the platform's commitment to user-centered design.
+### how-it-manifests
+Within the OpenHome platform, local-first principles are integrated into application design, ensuring that users can interact with services and access their data locally. This allows for smoother user experiences, particularly in situations where connectivity may be limited.
 
-## connects-to
+### connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ Local-first is manifested in OpenHome through features that prioritize local dat
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

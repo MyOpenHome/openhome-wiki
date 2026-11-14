@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 ---
 
 ## definition
-A grant program is an initiative that provides funding and support to individuals or organizations with the aim of fostering innovation, research, or development in specific areas aligned with OpenHome's goals.
+A grant program is a funding initiative designed to support specific projects or research within a community or organization, typically requiring an application process where potential recipients explain how they plan to utilize the funds.
 
 ## why-it-matters
-Grant programs are essential for promoting creativity and empowering the community. They allow diverse projects to emerge, which can enhance the overall ecosystem of OpenHome. By funding various initiatives, the grant program helps in building a sustainable and vibrant community that contributes to the platform's growth and evolution.
+Grant programs are essential for fostering innovation and supporting developers and creators within the OpenHome ecosystem. They facilitate the growth of new ideas that align with the platform's goals, helping to build a stronger community and enhance the overall functionality of OpenHome.
 
 ## how-it-manifests
-The grant program can manifest as calls for proposals from developers, researchers, and community members who can submit their ideas for funding. Successful applicants may receive financial support, resources, or mentorship to help bring their projects to fruition. Typically, these programs focus on innovative applications, features, or improvements that align with OpenHome's vision.
+In the OpenHome platform, grant programs can manifest as initiatives that provide financial support to individuals or groups who are developing tools, applications, or features that enhance user experience or improve platform capabilities. These programs may include periodic calls for proposals and a review process to determine which projects receive funding.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ The grant program can manifest as calls for proposals from developers, researche
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

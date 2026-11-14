@@ -1,26 +1,26 @@
 ```markdown
 ---
-title: Doogriss
+title: "Doogriss"
 entity_type: team
 status: stub
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 ---
 
 ### who-they-are
-*Role at OpenHome:* Not specified  
-*Background:* Not specified  
+Role at OpenHome: Unknown  
+Background: Unknown
 
 ### what-they-own
-*Areas of the platform they lead:* Not specified  
+Areas of the platform they lead: Unknown
 
 ### how-to-reach
-*Discord handle:* Not specified  
-*X/Twitter:* Not specified  
-*Preferred contact:* Not specified  
+Discord handle: Unknown  
+X/Twitter: Unknown  
+Preferred contact: Unknown
 
 ## connects-to
 [[team/jesse]]  
 [[team/shannon]]
 
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

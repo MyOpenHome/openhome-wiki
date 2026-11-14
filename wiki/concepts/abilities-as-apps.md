@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: Abilities as Apps
+title: concepts/abilities-as-apps
 entity_type: concepts
 status: stub
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 ---
 
 ### definition
-Abilities as Apps is a concept in OpenHome that refers to the way in which various functionalities, or "abilities," are structured and accessed as individual applications. This design allows users to engage with specific features directly, fostering ease of use and enhancing the interactive experience.
+Abilities-as-apps refer to a concept where distinct capabilities or functionalities are packaged as individual applications within a platform, allowing users to utilize them in a modular fashion.
 
 ### why-it-matters
-This concept is significant to OpenHome because it streamlines the user experience by allowing users to access and utilize different capabilities in a more modular fashion. By treating abilities as standalone apps, users can customize their interactions and optimize their specific needs without navigating through a more complex interface.
+This concept is significant to OpenHome as it promotes flexibility and customization, enabling users to tailor their experience according to their specific needs and preferences. By breaking down functionalities into discrete applications, it fosters innovation and ease of integration.
 
 ### how-it-manifests
-Within the OpenHome platform, abilities as apps appear as distinct modules or features that users can select and activate. This modularity can provide increased flexibility, allowing users to adapt their environment in a way that best suits their preferences and requirements.
+While detailed examples or specific instances within the OpenHome platform are not available at the moment, the idea of abilities-as-apps suggests that users can access and manage various skills or tools independently, potentially through a central interface that aggregates these applications.
 
 ### connects-to
 [[concepts/voice-first]]
@@ -23,5 +23,5 @@ Within the OpenHome platform, abilities as apps appear as distinct modules or fe
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

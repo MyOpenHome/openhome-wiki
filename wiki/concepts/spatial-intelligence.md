@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 ---
 
 ## definition
-Spatial intelligence refers to the ability to recognize and manipulate the spatial relationships between objects. It involves the capacity to visualize and think in three dimensions, which can be crucial for navigating physical space and understanding how objects relate to one another in an environment.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and understand how objects fit and interact in a three-dimensional space.
 
 ## why-it-matters
-In the context of OpenHome, spatial intelligence enhances user interactions by allowing for an intuitive understanding of the virtual environments and layouts users engage with. This capability can improve user experience by making navigation and spatial reasoning more seamless, enabling users to effectively manage and interact with their digital home.
+Spatial intelligence is essential for OpenHome as it enhances user experiences by enabling intuitive navigation and arrangement of information and tasks in a spatial context. This understanding can lead to better user interface designs that align with natural human cognition regarding spatial relations.
 
 ## how-it-manifests
-While specific implementations in OpenHome are not clearly detailed, spatial intelligence may manifest in features that involve augmented reality (AR), 3D modeling, or user interface designs that take advantage of physical space understanding. For instance, any functionalities that allow users to visualize their home environment or interact with spatial layouts could be seen as applications of spatial intelligence.
+In the OpenHome platform, spatial intelligence can manifest through features that allow users to visualize and organize their digital environments in a more intuitive manner. This may include 3D representations of data, spatial mapping of interactions, or any design elements that leverage the natural tendencies of human users to comprehend spaces visually.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ While specific implementations in OpenHome are not clearly detailed, spatial int
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```

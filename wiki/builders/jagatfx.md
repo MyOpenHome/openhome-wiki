@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: jagatfx
-entity_type: builders
+title: builders/jagatfx
+entity_type: builder
 status: stub
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 ---
 
 ### who-they-are
-Jagatfx is part of the active community of builders leveraging the devkit to enhance shipping capabilities within the platform. Further details regarding their background or specific projects being developed are currently not available.
+Jagatfx is an active community builder associated with the Homie and User roles in the developer kit ecosystem. 
 
 ### what-they-built
-Information regarding specific abilities or integrations that jagatfx has shipped is not available at this time. 
+Information about specific abilities or integrations that Jagatfx has shipped is currently unavailable.
 
 ### grant-status
-No grant status information is currently known.
+none
 
 ### how-to-reach
-Contact information, including Discord handle, GitHub, and X (formerly Twitter), is not available.
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
 [[abilities]]
-[[community builders]]
-[[devkit]]
 
-<!-- synthesized: 2026-11-13T18:12:28Z -->
+<!-- synthesized: 2026-11-14T16:45:35Z -->
 ```
