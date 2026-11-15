@@ -1,21 +1,21 @@
 ```markdown
 ---
-title: Local-First
+title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-11-14
+last_updated: 2026-11-15
 ---
 
 ### definition
-Local-first is a design principle in software development that prioritizes local data management on user devices, allowing applications to function effectively even in low or no internet connectivity environments. This concept promotes the idea that applications should store and process data primarily on the user's device rather than relying heavily on remote servers.
+Local First refers to an approach that prioritizes local data storage and processing over relying solely on cloud-based solutions. It emphasizes the importance of having applications that work effectively even without a constant internet connection, ensuring that users can access and manage their data locally.
 
 ### why-it-matters
-Local-first is essential to OpenHome as it enhances user control over personal data and promotes privacy. By reducing dependence on constant internet access, it ensures that users can rely on applications in various environments, thus fostering a more resilient and user-centric ecosystem.
+Local First is relevant to OpenHome because it empowers users to maintain control over their data and enhances the reliability of applications in environments with limited connectivity. By focusing on local-first principles, OpenHome aims to improve user experience and foster trust in digital interactions.
 
 ### how-it-manifests
-Within the OpenHome platform, local-first principles are integrated into application design, ensuring that users can interact with services and access their data locally. This allows for smoother user experiences, particularly in situations where connectivity may be limited.
+This concept can be seen in various applications and services within the OpenHome ecosystem that allow for local data management, offline functionality, and seamless synchronization with cloud services when connectivity is available. Features might include devices that operate independently while storing data locally before syncing with a central repository.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ Within the OpenHome platform, local-first principles are integrated into applica
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-14T16:45:35Z -->
+<!-- synthesized: 2026-11-15T17:28:02Z -->
 ```

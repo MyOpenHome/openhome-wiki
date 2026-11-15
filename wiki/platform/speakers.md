@@ -1,28 +1,26 @@
-```markdown
----
-title: platform/speakers
+```yaml
+title: Speakers
 entity_type: platform
 status: stub
-last_updated: 2026-11-14
----
+last_updated: 2026-11-15
+```
 
-### what-it-is
-The OpenHome speakers platform refers to a system of connected audio devices that integrate with various digital services, allowing users to play, control, and manage audio content across multiple speakers within a unified ecosystem.
+## what-it-is
+The "speakers" component of the OpenHome platform refers to the networked audio devices that can communicate and interact with other devices within the OpenHome ecosystem, facilitating high-quality audio streaming and playback.
 
-### how-it-works
-The speakers in the OpenHome platform operate by using a set of protocols to communicate with each other and connect to cloud services. Users can manage these devices via applications or voice commands, allowing them to select audio sources, control playback, and configure speaker settings. The architecture is designed to support seamless streaming and synchronization of audio across different speakers, ensuring an immersive listening experience.
+## how-it-works
+Speakers within the OpenHome platform utilize a decentralized architecture, allowing them to connect to various audio sources and render audio content seamlessly. Through protocols designed for interoperability, speakers can discover, control, and synchronize playback with other devices in the network. This enables users to manage their audio experience easily, whether streaming music, accessing podcast content, or engaging with voice assistants.
 
-### current-status
+## current-status
 stub
 
 ## connects-to
-[[platform/openhome]]
-[[platform/abilities]]
-[[platform/dashboard]]
-[[platform/voice-ai]]
-[[platform/local-link]]
-[[platform/marketplace]]
-[[platform/live-editor]]
+- [[platform/openhome]]
+- [[platform/abilities]]
+- [[platform/dashboard]]
+- [[platform/voice-ai]]
+- [[platform/local-link]]
+- [[platform/marketplace]]
+- [[platform/live-editor]]
 
-<!-- synthesized: 2026-11-14T16:45:35Z -->
-```
+<!-- synthesized: 2026-11-15T17:28:02Z -->

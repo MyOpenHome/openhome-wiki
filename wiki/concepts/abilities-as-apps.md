@@ -1,21 +1,20 @@
-```markdown
----
+```yaml
 title: concepts/abilities-as-apps
 entity_type: concepts
-status: stub
-last_updated: 2026-11-14
----
+status: live
+last_updated: 2026-11-15
+```
 
-### definition
-Abilities-as-apps refer to a concept where distinct capabilities or functionalities are packaged as individual applications within a platform, allowing users to utilize them in a modular fashion.
+## definition
+Abilities-as-apps is a concept that simplifies the deployment of functionalities within the OpenHome platform by treating them as individual applications. This allows users to easily access specific capabilities or features as needed, enhancing customization and usability.
 
-### why-it-matters
-This concept is significant to OpenHome as it promotes flexibility and customization, enabling users to tailor their experience according to their specific needs and preferences. By breaking down functionalities into discrete applications, it fosters innovation and ease of integration.
+## why-it-matters
+This concept is significant to OpenHome as it promotes a modular approach, making the platform more adaptable to user preferences and requirements. By allowing users to add or remove abilities like apps, OpenHome fosters a more personalized experience, aligning with contemporary trends in software design.
 
-### how-it-manifests
-While detailed examples or specific instances within the OpenHome platform are not available at the moment, the idea of abilities-as-apps suggests that users can access and manage various skills or tools independently, potentially through a central interface that aggregates these applications.
+## how-it-manifests
+Abilities-as-apps can be seen throughout the OpenHome platform in the way users interact with various features. For instance, functionalities such as smart home controls, personal assistants, and entertainment options can be activated or deactivated based on user choice, each functioning as a standalone application within the ecosystem.
 
-### connects-to
+## connects-to
 [[concepts/voice-first]]
 [[concepts/local-first]]
 [[concepts/web3-native]]
@@ -23,5 +22,4 @@ While detailed examples or specific instances within the OpenHome platform are n
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-14T16:45:35Z -->
-```
+<!-- synthesized: 2026-11-15T17:28:02Z -->
