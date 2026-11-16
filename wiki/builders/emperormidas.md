@@ -3,14 +3,14 @@
 title: Emperormidas
 entity_type: builders
 status: stub
-last_updated: 2026-11-15
+last_updated: 2026-11-16
 ---
 
 ### who-they-are
-Emperormidas is an active community builder who holds a DevKit and is engaged in developing capabilities within the community.
+Emperormidas is a community builder involved in the development and enhancement of features within the devkit ecosystem. They are a holder of devkit capabilities, focused on delivering utilities that benefit the wider community.
 
 ### what-they-built
-Currently, there is no specific information available about the abilities or integrations that Emperormidas has shipped.
+Details on any specific shipped abilities or integrations by Emperormidas are currently unavailable.
 
 ### grant-status
 none
@@ -21,7 +21,7 @@ none
 - X: Not specified
 
 ## connects-to
-[[wikilinks to abilities not available]]
-
-<!-- synthesized: 2026-11-15T17:28:02Z -->
+[[builders]]
+[[devkit]]
+<!-- synthesized: 2026-11-16T20:42:17Z -->
 ```

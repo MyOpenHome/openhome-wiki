@@ -1,30 +1,25 @@
-```markdown
----
+```yaml
 title: builders/slowjamsteve
 entity_type: builder
 status: stub
-last_updated: 2026-11-15
----
+last_updated: 2026-11-16
+```
 
 ## who-they-are
-Slowjamsteve is an active community builder involved in creating innovative solutions and functionalities within the developer ecosystem.
+Slowjamsteve is a community builder engaged in creating tools and integrations within the active builder ecosystem. Their background suggests a focus on enhancing user experiences and providing valuable contributions to the community.
 
 ## what-they-built
-As of the latest update, specific shipped abilities or integrations have not been detailed.
+Currently, there are no specific shipped abilities or integrations documented for Slowjamsteve.
 
 ## grant-status
 none
 
 ## how-to-reach
-- Discord handle: Unknown
-- GitHub: Unknown
-- X (formerly Twitter): Unknown
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
 [[builders]]
-[[community builders]]
-[[devkit]]
-[[shipping abilities]]
 
-<!-- synthesized: 2026-11-15T17:28:02Z -->
-```
+<!-- synthesized: 2026-11-16T20:42:17Z -->

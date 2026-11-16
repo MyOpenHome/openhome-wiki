@@ -3,21 +3,20 @@
 title: guides/franci
 entity_type: Community Guide
 status: stub
-last_updated: 2026-11-15
+last_updated: 2026-11-16
 ---
 
 ### who-they-are
-Information about Franci's background and expertise is currently unavailable.
+Franci is recognized in the community for their contributions as a power user. Specific background and expertise details are currently unavailable.
 
 ### what-they-help-with
-Franci's specific specialties and areas of assistance are not documented.
+Franci's specialty areas and the specific abilities or tools they work with remain unspecified at this time. 
 
 ### how-to-reach
-Franci's Discord handle has not been provided.
+Discord handle: Information not available.
 
 ## connects-to
 [[guides]]
-[[Community Guides]]
 
-<!-- synthesized: 2026-11-15T17:28:02Z -->
+<!-- synthesized: 2026-11-16T20:42:17Z -->
 ```

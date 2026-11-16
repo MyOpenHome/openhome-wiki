@@ -3,24 +3,26 @@
 title: builders/pauldy
 entity_type: builder
 status: stub
-last_updated: 2026-11-15
+last_updated: 2026-11-16
 ---
 
 ### who-they-are
-Pauldy is a member of the builders community known for their engagement and contributions. They are active as a devkit holder, which provides them with the necessary tools and resources to create and innovate within the community.
+Pauldy is an active community builder within the Homie ecosystem. They are engaged in creating innovative solutions and tools aimed at enhancing user experience and interaction within the community.
 
 ### what-they-built
-Currently, specific shipped abilities or integrations from Pauldy have not been documented or recorded.
+Information regarding specific shipped abilities or integrations by Pauldy is currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-Discord: Not available  
-GitHub: Not available  
-X: Not available  
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[wikilinks]]
-<!-- synthesized: 2026-11-15T17:28:02Z -->
+[[builders]]
+[[Homie]]
+[[community]]
+<!-- synthesized: 2026-11-16T20:42:17Z -->
 ```
