@@ -1,25 +1,24 @@
 ```yaml
-title: builders/shookdt
-entity_type: builder
+title: Shookdt
+entity_type: builders
 status: stub
-last_updated: 2026-11-16
+last_updated: 2026-11-17
 ```
 
 ## who-they-are
-Shookdt is an active community builder involved in developing integrations and functionalities within the builder ecosystem. Specific background details and past projects are currently unavailable.
+Shookdt is an active community builder involved in the development of various integrations and abilities related to the devkit. Details regarding their background and specific projects are currently limited.
 
 ## what-they-built
-Details regarding shipped abilities or integrations by Shookdt are not provided in the available data. More information is needed to outline their contributions.
+Information on the specific abilities or integrations shipped by Shookdt is not available at this time.
 
 ## grant-status
-Status of any grants applied for or received is unspecified.
+none
 
 ## how-to-reach
-Specific contact information for Shookdt, such as Discord handle, GitHub, or other social media, is not available.
+Currently, there are no known contact details for Shookdt, such as Discord handle, GitHub, or X.
 
 ## connects-to
-- [[builders]]
-- [[community builders]]
-- [[devkit holders]]
-
-<!-- synthesized: 2026-11-16T20:42:17Z -->
+[[builders]]  
+[[devkit]]
+<!-- synthesized: 2026-11-17T19:27:04Z -->
+```

@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: "jkoppel"
-entity_type: "builders/"
-status: "stub"
-last_updated: 2026-11-16
+title: jkoppel
+entity_type: builders
+status: stub
+last_updated: 2026-11-17
 ---
 
 ### who-they-are
-jkoppel is a community builder involved in the development of tools and integrations within the Homie ecosystem.
+jkoppel is an active community builder involved in projects related to the development of blockchain technologies. They are focused on creating innovative solutions within the ecosystem.
 
 ### what-they-built
-Currently, there is no specific information available on the abilities or integrations that jkoppel has shipped.
+Details regarding specific abilities or integrations that jkoppel has shipped are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Information on how to reach jkoppel is not provided.
 
 ## connects-to
-[[builders/]]
-[[Homie]]
-<!-- synthesized: 2026-11-16T20:42:17Z -->
+[[builders]]
+[[community builders]]
+[[blockchain technologies]]
+
+<!-- synthesized: 2026-11-17T19:27:04Z -->
 ```

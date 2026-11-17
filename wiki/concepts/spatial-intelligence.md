@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-11-16
+last_updated: 2026-11-17
 ---
 
 ## definition
-Spatial intelligence refers to the ability to visualize, manipulate, and interpret spatial relationships in the environment. It encompasses skills such as spatial reasoning, spatial visualization, and awareness of how objects relate to one another in space.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships between objects. It involves understanding how to navigate and interact within physical and digital environments.
 
 ## why-it-matters
-Spatial intelligence is crucial for enhancing user interaction within OpenHome. It allows users to navigate their environments effectively, understand spatial layouts, and optimize their use of digital spaces. By leveraging spatial intelligence, OpenHome can provide more intuitive and immersive experiences that align with how users naturally understand their surroundings.
+Spatial intelligence is essential in applications that require users to interact with complex environments, particularly in smart home systems. It enhances user experience by allowing for intuitive interactions and effective resource management. In the context of OpenHome, spatial intelligence supports the development of applications that require users to coordinate their activities within a physical space, such as managing home security, optimizing energy use, or configuring home automation systems.
 
 ## how-it-manifests
-In the OpenHome platform, spatial intelligence may be evident in features such as augmented reality environments, navigation tools that help users locate and interact with digital objects, and spatial audio capabilities that create a more lifelike sound environment. The integration of these features allows users to orient themselves within both virtual and real-world contexts effectively.
+In the OpenHome platform, spatial intelligence can manifest through features such as 3D mapping of the home environment, spatial awareness in device interactions (e.g., controlling smart home devices based on their location), and navigation aids that assist users in locating devices or understanding the layout of their home. It may also involve augmented reality (AR) or virtual reality (VR) applications that leverage spatial data to enhance user engagement with their environment.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In the OpenHome platform, spatial intelligence may be evident in features such a
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-16T20:42:17Z -->
+<!-- synthesized: 2026-11-17T19:27:04Z -->
 ```

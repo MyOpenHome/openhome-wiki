@@ -1,25 +1,29 @@
 ```markdown
 ---
 title: pmckelvy
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-11-16
+last_updated: 2026-11-17
 ---
 
-## who-they-are
-pmckelvy is recognized as an active member of the builders community, particularly involved in initiatives related to devkit holders and shipping abilities within the ecosystem.
+### who-they-are
+pmckelvy is part of an active community of builders working on various innovative projects. As a devkit holder, they are focused on creating shipping abilities within the ecosystem.
 
-## what-they-built
-Details on specific abilities or integrations that pmckelvy has shipped are currently unavailable. 
+### what-they-built
+Details about specific abilities or integrations that pmckelvy has shipped are currently unavailable.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
-No contact information such as Discord handle, GitHub, or X has been provided.
+### how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-No specific [[wikilinks]] to their abilities are available at this time.
+[[builders]]
+[[devkit]]
+[[community builders]]
 
-<!-- synthesized: 2026-11-16T20:42:17Z -->
+<!-- synthesized: 2026-11-17T19:27:04Z -->
 ```

@@ -3,19 +3,19 @@
 title: Local First
 entity_type: concepts
 status: stub
-last_updated: 2026-11-16
+last_updated: 2026-11-17
 ---
 
-### definition
-Local-first is a design philosophy that prioritizes data and applications being accessible and usable locally on a device before syncing with the cloud. It allows users to interact with their applications without needing a constant internet connection, thus enhancing usability and responsiveness.
+## definition
+Local First refers to a design philosophy where applications primarily operate on the user's device rather than relying heavily on cloud services. This approach emphasizes the importance of local data access, processing, and storage, allowing users to interact with their applications even without an internet connection.
 
-### why-it-matters
-This concept is pivotal to OpenHome as it empowers users to have control over their own data, promotes privacy, and ensures that the application remains functional even in scenarios where internet connectivity is intermittent or unavailable. By adopting a local-first approach, OpenHome aims to create a more resilient user experience.
+## why-it-matters
+Local First is relevant to OpenHome because it enhances user privacy and data control, enabling individuals to manage and own their data without being dependent on external servers. It contributes to a more resilient user experience by ensuring that applications remain functional offline, thus promoting accessibility and seamless interaction.
 
-### how-it-manifests
-While specific implementations were not detailed in the provided content, local-first can manifest in various ways within the OpenHome platform, such as leveraging local storage for user data, implementing offline capabilities for applications, and ensuring local processing of data before it is synchronized to the cloud.
+## how-it-manifests
+This concept manifests within OpenHome in the way applications are developed and deployed, prioritizing local data processing capabilities. Features may include offline data synchronization, local data storage mechanisms, and user-friendly interfaces that function independently from the internet.
 
-### connects-to
+## connects-to
 [[concepts/abilities-as-apps]]
 [[concepts/voice-first]]
 [[concepts/web3-native]]
@@ -23,5 +23,5 @@ While specific implementations were not detailed in the provided content, local-
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-16T20:42:17Z -->
+<!-- synthesized: 2026-11-17T19:27:04Z -->
 ```
