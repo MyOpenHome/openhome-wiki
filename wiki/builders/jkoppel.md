@@ -3,25 +3,25 @@
 title: jkoppel
 entity_type: builders
 status: stub
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
-### who-they-are
-jkoppel is an active community builder involved in projects related to the development of blockchain technologies. They are focused on creating innovative solutions within the ecosystem.
+## who-they-are
+jkoppel is an active community builder within the developer ecosystem, focusing on various projects and integrations relevant to users and developers alike.
 
-### what-they-built
-Details regarding specific abilities or integrations that jkoppel has shipped are currently unavailable.
+## what-they-built
+Information regarding specific abilities or integrations built by jkoppel is currently not available.
 
-### grant-status
-none
+## grant-status
+None
 
-### how-to-reach
-Information on how to reach jkoppel is not provided.
+## how-to-reach
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
-[[community builders]]
-[[blockchain technologies]]
+[[abilities]]
 
-<!-- synthesized: 2026-11-17T19:27:04Z -->
+<!-- synthesized: 2026-11-18T19:09:43Z -->
 ```

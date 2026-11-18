@@ -1,28 +1,27 @@
 ```markdown
 ---
 title: jagatfx
-entity_type: builders/
+entity_type: builders
 status: stub
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
 ### who-they-are
-Jagatfx is a community builder within the developer ecosystem, focusing on shipping innovative abilities that leverage their expertise with devkit tools.
+Jagatfx is a community builder focused on developing innovative solutions within the ecosystem. Their background includes involvement in various projects, utilizing their skills to enhance user experiences.
 
 ### what-they-built
-Details regarding specific shipped abilities or integrations by jagatfx are not provided in the current sources.
+Details on specific abilities or integrations are currently unavailable.
 
 ### grant-status
-No grant status is available for jagatfx at this time.
+none
 
 ### how-to-reach
-Information on how to reach jagatfx, including Discord handle, GitHub, or social media links, is currently unavailable.
+Currently, there is no contact information available.
 
 ## connects-to
-[[abilities]]
-[[community builders]]
+[[builders]]
 [[devkit]]
-[[integration]]
+[[community builders]]
 
-<!-- synthesized: 2026-11-17T19:27:04Z -->
+<!-- synthesized: 2026-11-18T19:09:43Z -->
 ```

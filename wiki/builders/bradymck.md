@@ -3,25 +3,23 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
 ### who-they-are
-Bradymck is an active member of the community, engaged in building tools and resources for developers. Further details about their background and specific focus areas are not available.
+Brady McK is an active community builder involved in various projects and initiatives within the developer ecosystem.
 
 ### what-they-built
-Information on specific abilities or integrations that Bradymck has shipped is not currently available.
+Details on specific abilities or integrations that Brady McK has shipped are currently unavailable.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+No contact information is available at this time.
 
 ## connects-to
-[[abilities]]  <!-- Replace with actual abilities once available -->
+[[wikilink-to-abilities]]  
 
-<!-- synthesized: 2026-11-17T19:27:04Z -->
+<!-- synthesized: 2026-11-18T19:09:43Z -->
 ```

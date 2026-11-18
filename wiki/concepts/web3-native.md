@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: Web3 Native
-entity_type: concepts/
+entity_type: concepts
 status: stub
-last_updated: 2026-11-17
+last_updated: 2026-11-18
 ---
 
-## definition
-Web3 Native refers to applications and systems built on decentralized technologies that prioritize user ownership, control over data, and peer-to-peer interactions. It embodies the principles of Web3, including decentralization, blockchain integration, and enhanced user agency in online interactions.
+### definition
+Web3-native refers to applications or services built specifically for the decentralized web (Web3), leveraging blockchain and related technologies to promote trust, security, and user empowerment.
 
-## why-it-matters
-Web3 Native is crucial to OpenHome as it aligns with the platform's goals of fostering user empowerment and enabling a collaborative, decentralized environment. By integrating Web3 principles, OpenHome ensures that users have control over their data and digital interactions, promoting trust and open participation in the ecosystem.
+### why-it-matters
+The significance of Web3-native concepts for OpenHome lies in their ability to enhance privacy, data ownership, and user control. These principles align with OpenHome's philosophy of prioritizing user-centric features and decentralization, which are fundamental for the evolution of digital interactions.
 
-## how-it-manifests
-In the OpenHome platform, Web3 Native manifests through functionalities that allow users to engage in decentralized transactions, manage their own digital identities, and create or interact with smart contracts. These features empower users by giving them the tools to navigate the digital landscape independently and securely.
+### how-it-manifests
+In OpenHome, Web3-native principles can manifest through features like decentralized identity management, user governance through token-based systems, and smart contracts that automate processes without a central intermediary. These mechanisms enable users to interact with the platform in a secure and trustless manner.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-11-17T19:27:04Z -->
+<!-- synthesized: 2026-11-18T19:09:43Z -->
 ```

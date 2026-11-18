@@ -1,24 +1,29 @@
-```yaml
-title: Shookdt
+```markdown
+---
+title: builders/shookdt
 entity_type: builders
 status: stub
-last_updated: 2026-11-17
-```
+last_updated: 2026-11-18
+---
 
-## who-they-are
-Shookdt is an active community builder involved in the development of various integrations and abilities related to the devkit. Details regarding their background and specific projects are currently limited.
+### who-they-are
+Shookdt is an active community builder and devkit holder focused on enhancing capabilities within the ecosystem. They are engaged in various development efforts and collaborations.
 
-## what-they-built
-Information on the specific abilities or integrations shipped by Shookdt is not available at this time.
+### what-they-built
+Currently, there are no specific shipped abilities or integrations documented for Shookdt.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Currently, there are no known contact details for Shookdt, such as Discord handle, GitHub, or X.
+### how-to-reach
+- Discord handle: Not available
+- GitHub: Not available
+- X (formerly Twitter): Not available
 
 ## connects-to
-[[builders]]  
-[[devkit]]
-<!-- synthesized: 2026-11-17T19:27:04Z -->
+[[abilities]]  
+[[community builders]]  
+[[devkit holders]]
+
+<!-- synthesized: 2026-11-18T19:09:43Z -->
 ```
