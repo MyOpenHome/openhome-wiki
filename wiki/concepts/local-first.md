@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: local-first
+title: Local First
 entity_type: concepts/
 status: stub
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 ---
 
 ### definition
-Local-first refers to a computational approach where applications prioritize local data storage and processing, allowing users to maintain control over their data even in the absence of a network connection.
+Local First refers to a design philosophy that prioritizes local data storage and processing to ensure applications function effectively without relying on constant internet connectivity.
 
 ### why-it-matters
-This concept is significant to OpenHome as it promotes user autonomy, data privacy, and reliability. By focusing on local data management, OpenHome ensures that user experiences remain smooth and uninterrupted, regardless of internet connectivity.
+In the context of OpenHome, Local First is significant as it enhances users' control over their data and allows for a seamless experience, even in constrained connectivity situations. This aligns with OpenHome's commitment to user autonomy and data privacy.
 
 ### how-it-manifests
-Local-first manifests in OpenHome through features that allow users to store data locally on their devices. This might include functionalities such as offline mode for applications, local data synchronization, and the ability to operate without a constant internet connection, making the platform resilient to connectivity issues.
+Within the OpenHome platform, Local First is evident in applications that continue to operate and synchronize data locally before syncing changes with cloud services when a stable connection is available. This design approach enables swift response times and minimizes the impact of network latency.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ Local-first manifests in OpenHome through features that allow users to store dat
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-18T19:09:43Z -->
+<!-- synthesized: 2026-11-19T19:12:49Z -->
 ```

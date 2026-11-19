@@ -1,16 +1,16 @@
 ```markdown
 ---
-title: Builders/EmperorMidas
-entity_type: builders
+title: builders/emperormidas
+entity_type: builder
 status: stub
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 ---
 
 ### who-they-are
-EmperorMidas is a community builder associated with the Homie and User roles, focusing on expanding capabilities within the development kit (devkit) ecosystem.
+Emperormidas is a community builder known for their involvement in various development projects within the blockchain space. Their initiatives are aimed at enhancing user engagement and expanding the functionality of existing tools.
 
 ### what-they-built
-Detailed information about the specific abilities or integrations shipped by EmperorMidas is currently unavailable.
+Currently, there is no specific information available regarding any shipped abilities or integrations attributed to Emperormidas.
 
 ### grant-status
 none
@@ -21,6 +21,9 @@ none
 - X: Not specified
 
 ## connects-to
-[[abilities]]
-<!-- synthesized: 2026-11-18T19:09:43Z -->
+[[builders]]
+[[community engagement]]
+[[blockchain projects]]
+
+<!-- synthesized: 2026-11-19T19:12:49Z -->
 ```

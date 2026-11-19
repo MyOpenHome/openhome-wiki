@@ -3,21 +3,24 @@
 title: Doogriss
 entity_type: team
 status: stub
-last_updated: 2026-11-18
+last_updated: 2026-11-19
 ---
 
 ### who-they-are
-Role at OpenHome: [Information not available]
-Background: [Information not available]
+Role at OpenHome: Unknown  
+Background: Unknown
 
 ### what-they-own
-Areas of the platform they lead: [Information not available]
+Areas of the platform they lead: Unknown
 
 ### how-to-reach
-Contact: [Information not available]
+Discord handle: Unknown  
+X/Twitter: Unknown  
+Preferred contact: Unknown
 
 ## connects-to
-[[wikilinks]]
+[[team/jesse]]  
+[[team/shannon]]
 
-<!-- synthesized: 2026-11-18T19:09:43Z -->
+<!-- synthesized: 2026-11-19T19:12:49Z -->
 ```
