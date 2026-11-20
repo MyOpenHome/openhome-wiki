@@ -1,19 +1,19 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts
+entity_type: concepts/
 status: stub
-last_updated: 2026-11-19
+last_updated: 2026-11-20
 ---
 
 ### definition
-A grant program is a structured initiative designed to provide funding or resources to individuals or organizations for specific projects or purposes, often in alignment with strategic goals or community needs.
+A grant program is a funding initiative that provides financial support to individuals, organizations, or projects that align with specific objectives or values. These funds are typically offered without the requirement of repayment, enabling recipients to advance their projects or research in ways that might not otherwise be possible.
 
 ### why-it-matters
-The grant program is significant to OpenHome as it supports innovation, encourages collaborative projects, and fosters community engagement. By funding various initiatives, the program helps ensure that diverse ideas and solutions can be explored within the OpenHome ecosystem.
+Grant programs are essential to OpenHome as they foster innovation, support community projects, and encourage collaboration within the ecosystem. They allow participants to explore new ideas and solutions that can enhance the platform and its offerings, ultimately contributing to the growth and sustainability of OpenHome.
 
 ### how-it-manifests
-This concept appears in the OpenHome platform through dedicated funding opportunities for developers, community projects, or new technology explorations. The grant applications process allows entities to submit proposals for various purposes, contributing to the overall growth and sustainability of the OpenHome community.
+Within the OpenHome platform, grant programs may be visible as calls for proposals, project applications, or funding announcements. These programs can manifest in various forms, such as competitions, collaborative partnerships, or specific funding rounds aimed at developing new features, enhancing user experience, or addressing community needs.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ This concept appears in the OpenHome platform through dedicated funding opportun
 [[concepts/dead-mans-switch]]
 [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-11-19T19:12:49Z -->
+<!-- synthesized: 2026-11-20T18:53:13Z -->
 ```

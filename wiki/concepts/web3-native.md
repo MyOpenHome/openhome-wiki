@@ -3,17 +3,17 @@
 title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-11-19
+last_updated: 2026-11-20
 ---
 
 ### definition
-Web3 native refers to applications and systems designed to leverage the decentralized nature of the web, often utilizing blockchain technology to enhance user ownership, privacy, and security. It embodies the ethos of decentralization and user empowerment in digital spaces.
+Web3 native refers to applications and systems built on decentralized technologies that prioritize user control, privacy, and digital ownership.
 
 ### why-it-matters
-The concept of being web3 native is significant to OpenHome as it aligns with the platform's goals of promoting user autonomy and integrating decentralized technologies. By embedding web3 principles, OpenHome can create a more transparent and equitable environment for users, enabling them to manage their data and interactions without reliance on centralized entities.
+In the context of OpenHome, being web3 native enables a transformative approach to digital interaction and community engagement. It allows users to have ownership over their data, participate directly in governance, and leverage smart contracts for enhanced automation and trust.
 
 ### how-it-manifests
-In OpenHome, web3 native concepts may manifest through user-controlled assets, decentralized identity management, and various blockchain-enabled features that facilitate secure peer-to-peer interactions. This could include smart contracts for automating agreements between users, decentralized finance (DeFi) mechanisms, and blockchain-based verification systems that enhance trust and security within the platform.
+The web3 native concept appears in OpenHome through features that integrate decentralized identity management, community consensus mechanisms, and decentralized finance tools, fostering an environment where users can engage with the platform in a more meaningful and secure way.
 
 ### connects-to
 [[concepts/abilities-as-apps]]
@@ -23,5 +23,5 @@ In OpenHome, web3 native concepts may manifest through user-controlled assets, d
 [[concepts/spatial-intelligence]]
 [[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-19T19:12:49Z -->
+<!-- synthesized: 2026-11-20T18:53:13Z -->
 ```

@@ -3,25 +3,22 @@
 title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-11-19
+last_updated: 2026-11-20
 ---
 
-### definition
-A dead man's switch is a safety mechanism that automatically performs a predefined action if the operator becomes incapacitated or fails to respond in a timely manner. It serves as a fail-safe to ensure operations can continue smoothly or safely in the event of unexpected circumstances.
+### Definition
+A dead man's switch is a safety mechanism that triggers an action when a user is unable to do so, often due to incapacitation or death. It ensures that tasks continue or alerts others when the user can no longer engage.
 
-### why-it-matters
-In the context of OpenHome, the dead man's switch concept is crucial for ensuring system resilience and user safety. By implementing such mechanisms, OpenHome can better manage risks associated with user engagement and system interactions, providing peace of mind for users who rely on automated processes.
+### Why It Matters
+In the context of OpenHome, a dead man's switch is important for automating user interactions and ensuring that systems can react appropriately in situations where the primary user is no longer available. This adds a layer of reliability and security to user interactions within the platform.
 
-### how-it-manifests
-The dead man's switch may appear in various areas of the OpenHome platform, primarily in features that require user interaction or continuous engagement. For instance, it could be integrated into applications handling sensitive tasks, where automated actions need to be taken if a user becomes unresponsive, thereby maintaining operational security and functionality.
+### How It Manifests
+While specific implementations within OpenHome are not detailed, the concept of a dead man's switch can manifest in features that ensure continuous operations or safety alerts when the user cannot respond or interact with the system. This can be particularly relevant in scenarios involving critical tasks or automated systems that require ongoing oversight.
 
-### connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
+### Connects To
+- [[concepts/abilities-as-apps]]
+- [[concepts/security]]
+- [[concepts/automation]]
 
-<!-- synthesized: 2026-11-19T19:12:49Z -->
+<!-- synthesized: 2026-11-20T18:53:13Z -->
 ```

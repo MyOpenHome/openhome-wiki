@@ -3,25 +3,26 @@
 title: builders/mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-11-19
+last_updated: 2026-11-20
 ---
 
 ### who-they-are
-Mathieu B. is part of an active community of builders, focusing on creating and enhancing tools and integrations for the developer kit (devkit). Their current projects and contributions are aimed at improving user experience and expanding functionality within their development environment.
+Matthew B. (username: mathieub) is an active member of the community, engaged in building innovative integrations and abilities for developers utilizing devkit tools.
 
 ### what-they-built
-Mathieu has yet to detail specific abilities or integrations they have shipped. Further information may be required to fully understand their contributions.
+Details about specific abilities or integrations created by Matthew B. are currently unavailable.
 
 ### grant-status
-none
+Grant status is currently listed as none.
 
 ### how-to-reach
-- Discord handle: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord: not provided
+- GitHub: not provided
+- X (formerly Twitter): not provided
 
 ## connects-to
-[[builders]]
+[[abilities]]
+[[integrations]]
 [[devkit]]
-<!-- synthesized: 2026-11-19T19:12:49Z -->
+<!-- synthesized: 2026-11-20T18:53:13Z -->
 ```

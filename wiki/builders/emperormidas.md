@@ -1,29 +1,27 @@
 ```markdown
 ---
 title: builders/emperormidas
-entity_type: builder
+entity_type: community builder
 status: stub
-last_updated: 2026-11-19
+last_updated: 2026-11-20
 ---
 
 ### who-they-are
-Emperormidas is a community builder known for their involvement in various development projects within the blockchain space. Their initiatives are aimed at enhancing user engagement and expanding the functionality of existing tools.
+Emperormidas is an active builder in the community, focused on creating and enhancing integrations for various platforms.
 
 ### what-they-built
-Currently, there is no specific information available regarding any shipped abilities or integrations attributed to Emperormidas.
+Currently, there is no specific information available about the abilities or integrations that Emperormidas has shipped.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[builders]]
-[[community engagement]]
-[[blockchain projects]]
+[[wikilinks]] to related abilities.
 
-<!-- synthesized: 2026-11-19T19:12:49Z -->
+<!-- synthesized: 2026-11-20T18:53:13Z -->
 ```
