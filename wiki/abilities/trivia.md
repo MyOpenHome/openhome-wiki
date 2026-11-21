@@ -1,22 +1,22 @@
 ```markdown
 ---
-title: Trivia
+title: Trivia Ability
 entity_type: abilities
 status: live
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 ---
 
 ### what-it-does
-The Trivia ability allows users to engage in quiz-style questions and answers on a wide range of topics. It provides a fun and interactive way for users to test their knowledge and learn new information.
+The Trivia ability engages users in answering questions across various topics, testing their knowledge, and providing instant feedback on their responses.
 
 ### how-to-build
-Builders can create trivia questions using a simple API that allows for multiple-choice formats, triggers for user interaction, and scoring systems to track user performance. Detailed API documentation is provided for integration purposes.
+To create the Trivia ability, developers can utilize a question and answer API to fetch trivia questions from a curated database. Consider incorporating features for time limits, scoring systems, and categories to enhance user engagement.
 
 ### category
 entertainment
 
 ### built-by
-[[abilities/trivia]]
+[[abilities/trivia-builder]]
 
 ### status
 live
@@ -26,5 +26,5 @@ live
 [[abilities/aquaprime]]  
 [[abilities/deadman-fm]]  
 
-<!-- synthesized: 2026-11-20T18:53:13Z -->
+<!-- synthesized: 2026-11-21T17:48:41Z -->
 ```

@@ -1,23 +1,23 @@
 ```markdown
 ---
-title: Abubakar
-entity_type: team
-status: stub
-last_updated: 2026-11-20
+title: "Abubakar"
+entity_type: "team/"
+status: "stub"
+last_updated: 2026-11-21
 ---
 
 ### who-they-are
-Role at OpenHome and background information about Abubakar are currently unavailable.
+Role at OpenHome: Information not available. Background: Information not available.
 
 ### what-they-own
-Areas of the platform that Abubakar leads are currently unspecified.
+Areas of the platform they lead: Information not available.
 
 ### how-to-reach
-Contact details for Abubakar, including Discord handle or social media accounts, are currently not available.
+Discord handle: Information not available. X/Twitter: Information not available. Preferred contact: Information not available.
 
 ## connects-to
 [[team/jesse]]
 [[team/shannon]]
 
-<!-- synthesized: 2026-11-20T18:53:13Z -->
+<!-- synthesized: 2026-11-21T17:48:41Z -->
 ```

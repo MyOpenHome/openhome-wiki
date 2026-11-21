@@ -1,24 +1,25 @@
 ```markdown
 ---
 title: builders/pl-geek
-entity_type: builders
+entity_type: builders/
 status: stub
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 ---
 
 ### who-they-are
-Information about pl-geek's background and what they are building is currently unavailable.
+Information about who builders/pl-geek are and their background is currently unavailable.
 
 ### what-they-built
-Details on the abilities or integrations shipped by pl-geek have not been provided.
+Specific details regarding the abilities or integrations that builders/pl-geek have shipped are not present.
 
 ### grant-status
-The grant status for pl-geek is currently unknown.
+Information on the grant status for builders/pl-geek has not been provided.
 
 ### how-to-reach
-Contact details for pl-geek, including their Discord handle, GitHub, or X, are not available.
+Contact details such as Discord handle, GitHub, and X are not available.
 
 ## connects-to
-[[wikilink-to-related-abilities]]
-<!-- synthesized: 2026-11-20T18:53:13Z -->
+[[wikilink-to-related-page]]
+
+<!-- synthesized: 2026-11-21T17:48:41Z -->
 ```

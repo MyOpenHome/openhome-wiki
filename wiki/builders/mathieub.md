@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: builders/mathieub
+title: mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 ---
 
 ### who-they-are
-Matthew B. (username: mathieub) is an active member of the community, engaged in building innovative integrations and abilities for developers utilizing devkit tools.
+Mathieub is an active member of the developer community, known for their contributions as a devkit holder. They are engaged in building and enhancing various functionalities within the community.
 
 ### what-they-built
-Details about specific abilities or integrations created by Matthew B. are currently unavailable.
+Details on specific abilities or integrations that Mathieub has shipped are currently unavailable.
 
 ### grant-status
-Grant status is currently listed as none.
+none
 
 ### how-to-reach
-- Discord: not provided
-- GitHub: not provided
-- X (formerly Twitter): not provided
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[abilities]]
-[[integrations]]
+[[builders]]
 [[devkit]]
-<!-- synthesized: 2026-11-20T18:53:13Z -->
+<!-- synthesized: 2026-11-21T17:48:41Z -->
 ```

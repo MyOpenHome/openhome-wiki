@@ -1,25 +1,27 @@
-```yaml
+```markdown
+---
 title: Local First
 entity_type: concepts
-status: live
-last_updated: 2026-11-20
-```
+status: stub
+last_updated: 2026-11-21
+---
 
 ## definition
-Local First is an approach to software design where applications prioritize operations and data processing on the local device rather than relying on constant server connectivity. This design principle enhances user experience and performance by allowing users to interact with applications seamlessly, even in offline scenarios.
+Local First refers to a design approach where applications prioritize functionality and data storage on the local device before relying on cloud services. This ensures that users can access and interact with their data seamlessly, even without an internet connection.
 
 ## why-it-matters
-Local First is relevant to OpenHome as it reinforces the platform's commitment to user autonomy and privacy. By enabling local data processing, OpenHome reduces dependency on cloud services, which can mitigate risks associated with data breaches and enhance user control over their information.
+Local First is relevant to OpenHome because it enhances user autonomy and data ownership. By minimizing dependence on external servers, it protects user privacy and allows for a more resilient application experience. In an era where connectivity can be inconsistent, a Local First approach ensures that users are not hindered in their interactions with applications.
 
 ## how-it-manifests
-The concept appears throughout the OpenHome platform in various features, including offline accessibility for applications, local data storage solutions, and user-friendly synchronization processes that allow data to be updated across devices without server dependency when connectivity is restored.
+In the OpenHome platform, Local First principles may be seen in applications that allow users to manage their data locally, sync changes to a decentralized network when connectivity is available, and support offline functionalities. This model promotes efficiency and user control over their personal data.
 
 ## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-20T18:53:13Z -->
+<!-- synthesized: 2026-11-21T17:48:41Z -->
+```

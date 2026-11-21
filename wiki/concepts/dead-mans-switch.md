@@ -3,22 +3,25 @@
 title: Dead Man's Switch
 entity_type: concepts
 status: stub
-last_updated: 2026-11-20
+last_updated: 2026-11-21
 ---
 
-### Definition
-A dead man's switch is a safety mechanism that triggers an action when a user is unable to do so, often due to incapacitation or death. It ensures that tasks continue or alerts others when the user can no longer engage.
+### definition
+A dead man's switch is a safety mechanism that is designed to automatically trigger an action if a certain condition is not met, typically involving the absence of a user's input or presence. It ensures that systems remain safe or operational even if expected human oversight lapses.
 
-### Why It Matters
-In the context of OpenHome, a dead man's switch is important for automating user interactions and ensuring that systems can react appropriately in situations where the primary user is no longer available. This adds a layer of reliability and security to user interactions within the platform.
+### why-it-matters
+In the context of OpenHome, the dead man's switch is critical for ensuring that user interactions and automated systems continue to operate safely in the absence of user engagement. This concept emphasizes the importance of reliability and security within the platform, which is vital for user trust and system integrity.
 
-### How It Manifests
-While specific implementations within OpenHome are not detailed, the concept of a dead man's switch can manifest in features that ensure continuous operations or safety alerts when the user cannot respond or interact with the system. This can be particularly relevant in scenarios involving critical tasks or automated systems that require ongoing oversight.
+### how-it-manifests
+The dead man's switch can appear in various forms within the OpenHome platform, such as automated notifications, continuous verification of user presence, or fail-safe protocols in apps. These mechanisms can ensure that, if a user stops interacting for a designated period, the system will either alert the user or automatically initiate predefined safety protocols.
 
-### Connects To
-- [[concepts/abilities-as-apps]]
-- [[concepts/security]]
-- [[concepts/automation]]
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-20T18:53:13Z -->
+<!-- synthesized: 2026-11-21T17:48:41Z -->
 ```
