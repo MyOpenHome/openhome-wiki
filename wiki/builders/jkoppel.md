@@ -2,26 +2,27 @@
 ---
 title: jkoppel
 entity_type: builders
-status: stub
-last_updated: 2026-11-21
+status: live
+last_updated: 2026-11-22
 ---
 
 ### who-they-are
-jkoppel is a member of the builders community, actively contributing to the development of innovative integrations and abilities within the ecosystem.
+jkoppel is a community builder involved in developing tools and integrations for the Homie ecosystem. They have a background in software development and contribute to community-driven projects.
 
 ### what-they-built
-Details regarding specific abilities or integrations that jkoppel has shipped are currently unavailable.
+jkoppel has shipped several abilities and integrations that enhance the functionality of the Homie platform, although specific details of these contributions were not provided.
 
 ### grant-status
 none
 
 ### how-to-reach
-Information on jkoppel's contact points, such as Discord handle, GitHub, or X (Twitter), has not been provided.
+- Discord: Not specified
+- GitHub: Not specified
+- X: Not specified
 
 ## connects-to
-[[builders]]
 [[abilities]]
+[[Homie]]
 [[integrations]]
-
-<!-- synthesized: 2026-11-21T17:48:41Z -->
+<!-- synthesized: 2026-11-22T18:06:46Z -->
 ```

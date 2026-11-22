@@ -1,27 +1,28 @@
-```yaml
+```markdown
+---
 title: builders/nicholas3415
 entity_type: builder
 status: stub
-last_updated: 2026-11-21
-```
+last_updated: 2026-11-22
+---
 
-## who-they-are
-Nicholas3415 is a community builder involved in the development of various projects within the Homie ecosystem. Their background includes a focus on creating useful integrations for users.
+### who-they-are
+Nicholas3415 is an active participant in the development community, primarily focused on building tools and integrations aimed at enhancing user experience.
 
-## what-they-built
-Information regarding specific abilities or integrations that Nicholas3415 has shipped is currently unavailable.
+### what-they-built
+Information about specific abilities or integrations developed by Nicholas3415 is currently unavailable.
 
-## grant-status
-None
+### grant-status
+none
 
-## how-to-reach
-- Discord handle: Not provided
+### how-to-reach
+- Discord: Not provided
 - GitHub: Not provided
 - X: Not provided
 
 ## connects-to
-[[builders]]  
-[[Homie]]  
-[[community builders]]
-
-<!-- synthesized: 2026-11-21T17:48:41Z -->
+[[builders]]
+[[integrations]]
+[[community]]
+<!-- synthesized: 2026-11-22T18:06:46Z -->
+```

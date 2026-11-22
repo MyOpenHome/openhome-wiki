@@ -3,25 +3,26 @@
 title: bradymck
 entity_type: builders
 status: stub
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 ---
 
 ### who-they-are
-Brady McK is an active member of the community, engaged in developing and building integrations using the DevKit.
+Bradymck is a developer and community builder involved in creating tools and integrations within the growing ecosystem.
 
 ### what-they-built
-No specific abilities or integrations have been documented as shipped by Brady McK at this time.
+Information regarding specific abilities or integrations built by bradymck is currently not available.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord: Not provided
-- GitHub: Not provided
-- X: Not provided
+- Discord Handle: Not specified
+- GitHub: Not specified
+- X (formerly Twitter): Not specified
 
 ## connects-to
-[[builders]]
-[[devkit]]
-<!-- synthesized: 2026-11-21T17:48:41Z -->
+[[abilities]]  
+[[integration]]  
+
+<!-- synthesized: 2026-11-22T18:06:46Z -->
 ```

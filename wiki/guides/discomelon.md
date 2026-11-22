@@ -1,23 +1,24 @@
 ```markdown
 ---
-title: discomelon
+title: Discomelon Guide
 entity_type: guides/
 status: stub
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 ---
 
 ### who-they-are
-Discomelon is associated with the community of guides that assist power users in onboarding others. Specific background and expertise details are currently unavailable.
+Information regarding the background and expertise of the Discomelon guide is currently unavailable.
 
 ### what-they-help-with
-The exact specialties of Discomelon, including abilities, hardware, and APIs, are not specified in the available data.
+The specifics of the Discomelon guide's specialty, including abilities, hardware, and APIs, are not documented at this time.
 
 ### how-to-reach
-Discomelon’s Discord handle is not provided.
+Contact information for reaching the Discomelon guide, such as Discord handle, has not been provided.
 
-### connects-to
+## connects-to
 [[guides]]
-[[community guides]]
 [[Discord]]
-<!-- synthesized: 2026-11-21T17:48:41Z -->
+[[community-guides]]
+
+<!-- synthesized: 2026-11-22T18:06:46Z -->
 ```

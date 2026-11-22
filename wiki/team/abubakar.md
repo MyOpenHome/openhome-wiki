@@ -1,23 +1,26 @@
 ```markdown
 ---
-title: "Abubakar"
-entity_type: "team/"
-status: "stub"
-last_updated: 2026-11-21
+title: Abubakar
+entity_type: team
+status: stub
+last_updated: 2026-11-22
 ---
 
 ### who-they-are
-Role at OpenHome: Information not available. Background: Information not available.
+Role at OpenHome: Not specified  
+Background: Not specified  
 
 ### what-they-own
-Areas of the platform they lead: Information not available.
+Areas of the platform they lead: Not specified  
 
 ### how-to-reach
-Discord handle: Information not available. X/Twitter: Information not available. Preferred contact: Information not available.
+Discord handle: Not specified  
+X/Twitter: Not specified  
+Preferred contact: Not specified  
 
 ## connects-to
-[[team/jesse]]
-[[team/shannon]]
+[[team/jesse]]  
+[[team/shannon]]  
 
-<!-- synthesized: 2026-11-21T17:48:41Z -->
+<!-- synthesized: 2026-11-22T18:06:46Z -->
 ```

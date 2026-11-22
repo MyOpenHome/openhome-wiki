@@ -3,25 +3,24 @@
 title: mathieub
 entity_type: builders
 status: stub
-last_updated: 2026-11-21
+last_updated: 2026-11-22
 ---
 
 ### who-they-are
-Mathieub is an active member of the developer community, known for their contributions as a devkit holder. They are engaged in building and enhancing various functionalities within the community.
+mathieub is a member of the active community builders with a focus on shipping abilities as part of the Homie and User roles. Specific details about their background and ongoing projects are currently unavailable.
 
 ### what-they-built
-Details on specific abilities or integrations that Mathieub has shipped are currently unavailable.
+Information on what mathieub has shipped or integrated is not available at this time.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Details for reaching mathieub through Discord, GitHub, or social media platforms are currently not provided.
 
 ## connects-to
-[[builders]]
-[[devkit]]
-<!-- synthesized: 2026-11-21T17:48:41Z -->
+[[abilities]]
+[[integrations]]
+
+<!-- synthesized: 2026-11-22T18:06:46Z -->
 ```

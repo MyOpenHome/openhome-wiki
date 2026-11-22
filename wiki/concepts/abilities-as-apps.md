@@ -1,25 +1,27 @@
-```yaml
-title: concepts/abilities-as-apps
-entity_type: concepts
-status: live
-last_updated: 2026-11-21
+```markdown
+---
+title: "abilities-as-apps"
+entity_type: "concepts"
+status: "stub"
+last_updated: 2026-11-22
+---
+
+### definition
+Abilities-as-apps refers to the conceptual framework where various capabilities and functionalities are packaged as discrete applications that can be easily integrated and utilized within the OpenHome ecosystem.
+
+### why-it-matters
+This concept is pivotal for enhancing user experience by allowing modularity and flexibility in how different functionalities are accessed and utilized. It emphasizes the potential for personalization and optimization of home management through customizable applications.
+
+### how-it-manifests
+In the OpenHome platform, abilities-as-apps may manifest through various applications that users can install or activate based on their specific needs. This modular approach allows users to tailor their home automation experiences, choosing only the functionalities that are most relevant to them.
+
+### connects-to
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
+
+<!-- synthesized: 2026-11-22T18:06:46Z -->
 ```
-
-## definition
-Abilities-as-apps is a concept in OpenHome that refers to the modularization of various functionalities and services into standalone applications. This approach allows users to easily access and manage different capabilities on the platform as individual apps, rather than as integrated features.
-
-## why-it-matters
-This concept is significant because it enhances user flexibility and customization. By treating abilities as separate applications, users can choose which functionalities they wish to employ, leading to a more personalized experience. Moreover, it encourages third-party developers to create and integrate new capabilities, expanding the ecosystem and fostering innovation.
-
-## how-it-manifests
-Abilities-as-apps appears in the OpenHome platform as a collection of downloadable or usable applications that can be activated or deactivated according to user preferences. Users can browse through these abilities, install the ones that meet their needs, and easily uninstall those they no longer wish to use, creating a dynamic and adaptable interface.
-
-## connects-to
-[[concepts/voice-first]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/dead-mans-switch]]
-[[concepts/spatial-intelligence]]
-[[concepts/grant-program]]
-
-<!-- synthesized: 2026-11-21T17:48:41Z -->
