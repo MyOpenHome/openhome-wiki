@@ -1,28 +1,25 @@
-```markdown
----
+```yaml
 title: jkoppel
 entity_type: builders
-status: live
-last_updated: 2026-11-22
----
+status: stub
+last_updated: 2026-11-23
+```
 
-### who-they-are
-jkoppel is a community builder involved in developing tools and integrations for the Homie ecosystem. They have a background in software development and contribute to community-driven projects.
+## who-they-are
+jkoppel is a member of the active community of builders focusing on developing and shipping capabilities related to the Homie project. Specific background information and the details of current projects are not available.
 
-### what-they-built
-jkoppel has shipped several abilities and integrations that enhance the functionality of the Homie platform, although specific details of these contributions were not provided.
+## what-they-built
+There are no documented abilities or integrations that jkoppel has shipped at this time.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+## how-to-reach
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
-[[abilities]]
-[[Homie]]
-[[integrations]]
-<!-- synthesized: 2026-11-22T18:06:46Z -->
-```
+[[Homie]]  
+
+<!-- synthesized: 2026-11-23T22:16:40Z -->

@@ -1,28 +1,29 @@
 ```markdown
 ---
-title: builders/pmckelvy
+title: pmckelvy
 entity_type: builders
 status: stub
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 ---
 
 ### who-they-are
-pmckelvy is an active member of the community, known for engaging with other developers and contributing to various projects within the ecosystem.
+pmckelvy is a community builder within the devkit holder ecosystem, known for engaging with projects and contributing to the advancement of community-driven technologies.
 
 ### what-they-built
-Details about specific abilities or integrations built by pmckelvy are currently unavailable.
+Details on specific shipped abilities or integrations by pmckelvy are currently unavailable.
 
 ### grant-status
 none
 
 ### how-to-reach
-- Discord handle: Not specified
-- GitHub: Not specified
-- X: Not specified
+- Discord handle: Not provided
+- GitHub: Not provided
+- X: Not provided
 
 ## connects-to
-[[abilities]]
-[[integrations]]
+[[builders]]
+[[devkit holders]]
+[[community builders]]
 
-<!-- synthesized: 2026-11-22T18:06:46Z -->
+<!-- synthesized: 2026-11-23T22:16:40Z -->
 ```

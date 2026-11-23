@@ -1,25 +1,25 @@
 ```markdown
 ---
-title: builders/shookdt
-entity_type: builders
-status: stub
-last_updated: 2026-11-22
+title: "builders/shookdt"
+entity_type: "community_builder"
+status: "stub"
+last_updated: 2026-11-23
 ---
 
 ### who-they-are
-Shookdt is a community builder active in the development ecosystem. The specifics of their background and what exactly they are building have not been publicly shared.
+Shookdt is an active community builder involved in developing skills and capabilities. Specific details about their background and the overarching goals of their projects are currently not available.
 
 ### what-they-built
-Details regarding any shipped abilities or integrations from Shookdt are currently unavailable.
+No specific abilities or integrations that Shookdt has shipped are currently listed.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
-No direct contact details such as Discord handle, GitHub, or X have been provided.
+Information on how to reach Shookdt, including their Discord handle, GitHub, or X accounts, is currently not available.
 
 ## connects-to
-[[abilities]] 
+[[abilities]]
 
-<!-- synthesized: 2026-11-22T18:06:46Z -->
+<!-- synthesized: 2026-11-23T22:16:40Z -->
 ```

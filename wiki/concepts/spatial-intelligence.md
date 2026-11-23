@@ -3,17 +3,17 @@
 title: Spatial Intelligence
 entity_type: concepts
 status: stub
-last_updated: 2026-11-22
+last_updated: 2026-11-23
 ---
 
 ## definition
-Spatial intelligence refers to the capacity to visualize and manipulate three-dimensional spaces and shapes. It entails an understanding of how objects relate to each other in space and the ability to navigate through environments effectively.
+Spatial intelligence refers to the ability to visualize and manipulate spatial relationships and environments. It encompasses skills such as understanding maps, geometry, and the physical layout of objects in space.
 
 ## why-it-matters
-Spatial intelligence is crucial for developing user interactions and experiences in OpenHome. It enables the platform to create intuitive layouts and spatial mapping features that enhance user engagement and usability.
+In the context of OpenHome, spatial intelligence enhances user experience by enabling more intuitive navigation and interaction within physical and digital spaces. It supports features that require users to understand their surroundings better, fostering a more engaging and immersive environment.
 
 ## how-it-manifests
-Currently, spatial intelligence is reflected in the way OpenHome organizes digital spaces and resources, allowing users to interact with their environments in a more immersive and meaningful manner. This can include features like spatial navigation, object placement, and context-aware information retrieval.
+Though specific implementations are not detailed, spatial intelligence could manifest in the platform through features such as augmented reality (AR) applications, spatial mapping tools, and user interfaces that leverage spatial data for more effective communication and interaction.
 
 ## connects-to
 [[concepts/abilities-as-apps]]
@@ -22,8 +22,6 @@ Currently, spatial intelligence is reflected in the way OpenHome organizes digit
 [[concepts/web3-native]]
 [[concepts/dead-mans-switch]]
 [[concepts/grant-program]]
-[[concepts/augmented-reality]]
-[[concepts/user-experience]]
 
-<!-- synthesized: 2026-11-22T18:06:46Z -->
+<!-- synthesized: 2026-11-23T22:16:40Z -->
 ```
