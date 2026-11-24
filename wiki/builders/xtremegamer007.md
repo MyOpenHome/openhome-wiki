@@ -1,19 +1,19 @@
 ```markdown
 ---
-title: xtremegamer007
-entity_type: builders/
+title: builders/xtremegamer007
+entity_type: builder
 status: stub
-last_updated: 2026-11-23
+last_updated: 2026-11-24
 ---
 
 ### who-they-are
-xtremegamer007 is a builder in the community, actively participating as a Homie and User role holder. They are involved in the development and integration of various digital abilities.
+XtremeGamer007 is an active member of the community, recognized for their engagement and contribution to various projects. As a devkit holder, they are focused on developing innovative solutions and integrations within the gaming ecosystem.
 
 ### what-they-built
-Information on specific abilities or integrations that xtremegamer007 has shipped is currently unavailable.
+Currently, there are no confirmed shipped abilities or integrations associated with XtremeGamer007, as no relevant updates or projects have been documented.
 
 ### grant-status
-unknown
+none
 
 ### how-to-reach
 - Discord: Not available
@@ -21,8 +21,9 @@ unknown
 - X: Not available
 
 ## connects-to
-[[abilities]]
 [[builders]]
-[[community]]
-<!-- synthesized: 2026-11-23T22:16:40Z -->
+[[devkit holders]]
+[[community contributors]]
+
+<!-- synthesized: 2026-11-24T20:54:36Z -->
 ```

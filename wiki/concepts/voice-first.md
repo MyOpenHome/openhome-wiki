@@ -1,27 +1,27 @@
 ```markdown
 ---
-title: Voice-First
-entity_type: concepts
-status: live
-last_updated: 2026-11-23
+title: "Voice-First"
+entity_type: "concepts"
+status: "stub"
+last_updated: "2026-11-24"
 ---
 
 ### definition
-Voice-first refers to a user interface design approach that prioritizes voice interaction as the primary way for users to engage with technology. This paradigm shift emphasizes using natural language processing and speech recognition technologies to facilitate more intuitive and seamless interactions between users and devices.
+Voice-first refers to an interface or platform design philosophy that prioritizes voice interactions as the primary means of user engagement. This concept emphasizes the use of voice commands and responses to facilitate user tasks, rather than traditional interfaces like keyboard and mouse or touchscreens.
 
 ### why-it-matters
-In the context of OpenHome, the voice-first concept is crucial as it aligns with the increasing demand for hands-free and efficient user experiences. By integrating voice-first capabilities, OpenHome can cater to a broader audience, enhance accessibility, and create more engaging interactions with its applications.
+Voice-first technology is increasingly relevant in contemporary digital experiences, as it aligns with a growing trend towards more natural and intuitive ways of interacting with technology. For OpenHome, adopting a voice-first approach could enhance accessibility and user engagement, enabling seamless interactions that cater to a broader audience.
 
 ### how-it-manifests
-The voice-first paradigm manifests in OpenHome through various applications that utilize voice commands for controlling smart devices, interacting with content, and managing tasks. This can include features such as voice-activated search, voice-controlled automation, and conversational agents that improve user engagement and simplify navigation across the platform.
+In the context of OpenHome, the voice-first concept may appear through features like voice-activated commands for managing home environments, providing information or assistance via voice replies, and integrating with voice recognition technologies. Such implementations could reduce friction in user interactions and lead to more efficient and enjoyable experiences.
 
-### connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/local-first]]  
-[[concepts/web3-native]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+## connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/local-first]]
+[[concepts/web3-native]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-23T22:16:40Z -->
+<!-- synthesized: 2026-11-24T20:54:36Z -->
 ```
