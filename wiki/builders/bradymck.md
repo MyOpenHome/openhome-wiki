@@ -1,28 +1,27 @@
 ```markdown
 ---
-title: bradymck
+title: "bradymck"
 entity_type: builders
 status: stub
-last_updated: 2026-11-24
+last_updated: 2026-11-25
 ---
 
 ### who-they-are
-bradymck is a community builder active in the development of projects associated with the Homie ecosystem. Specific details about their background and current projects are not available.
+bradymck is a community builder in the development ecosystem, particularly engaged with the Homie + User roles and utilizing devkit tools. 
 
 ### what-they-built
-There is no information available regarding specific abilities or integrations that bradymck has shipped.
+Information on specific abilities or integrations shipped by bradymck is currently not available.
 
 ### grant-status
-None
+none
 
 ### how-to-reach
-- Discord: Not specified
-- GitHub: Not specified
-- X: Not specified
+Discord handle: Not available  
+GitHub: Not available  
+X: Not available  
 
 ## connects-to
-[[abilities]]
-[[Homie ecosystem]]
+[[wikilinks]]
 
-<!-- synthesized: 2026-11-24T20:54:36Z -->
+<!-- synthesized: 2026-11-25T20:15:41Z -->
 ```

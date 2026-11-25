@@ -1,27 +1,28 @@
 ```markdown
 ---
-title: builders/mathieub
-entity_type: builder
-status: stub
-last_updated: 2026-11-24
+title: "builders/mathieub"
+entity_type: "builders"
+status: "stub"
+last_updated: 2026-11-25
 ---
 
 ### who-they-are
-Mathieu is an active member of the builders community, specifically holding a devkit and engaging in developer-oriented projects.
+Mathieub is an active member of the builders community, known for their involvement in developing and shipping various abilities.
 
 ### what-they-built
-Details on specific abilities or integrations that Mathieu has shipped are not currently available.
+Information on the specific abilities or integrations that Mathieub has shipped is not currently available.
 
 ### grant-status
-none
+None
 
 ### how-to-reach
 - Discord: Not provided
 - GitHub: Not provided
 - X: Not provided
 
-## connects-to
-[[abilities]]
+### connects-to
+[[Abilties]]
+[[Integrations]]
 
-<!-- synthesized: 2026-11-24T20:54:36Z -->
+<!-- synthesized: 2026-11-25T20:15:41Z -->
 ```

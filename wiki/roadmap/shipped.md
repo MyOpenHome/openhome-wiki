@@ -1,25 +1,26 @@
 ```markdown
 ---
-title: Roadmap
-entity_type: roadmap/shipped
+title: Roadmap / Shipped
+entity_type: roadmap
 status: stub
-last_updated: 2026-11-24
+last_updated: 2026-11-25
 ---
 
 ### what-it-is
-A roadmap detailing features and milestones related to product development.
+This page documents the features and milestones that are part of the roadmap, including those that are shipped, in-progress, planned, or cancelled.
 
 ### status
-stub
+The current status of features is marked as stub due to insufficient information.
 
 ### why-it-matters
-Understanding the roadmap helps stakeholders grasp current and upcoming features, ensuring transparency and alignment on project goals.
+Having clarity on the roadmap and status of various features is essential for users and stakeholders to understand the development direction and priorities of the organization.
 
 ### eta
-Not available.
+No rough timeline is available at this time.
 
 ## connects-to
-[[features]] | [[milestones]] | [[product_development]] 
-
-<!-- synthesized: 2026-11-24T20:54:36Z -->
+[[roadmap/planned]]
+[[roadmap/in-progress]]
+[[roadmap/cancelled]]
+<!-- synthesized: 2026-11-25T20:15:41Z -->
 ```
