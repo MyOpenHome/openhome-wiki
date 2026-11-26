@@ -2,25 +2,25 @@
 title: platform/abilities
 entity_type: platform
 status: stub
-last_updated: 2026-11-25
+last_updated: 2026-11-26
 ```
 
 ## what-it-is
-OpenHome abilities refer to the functional features and capabilities provided by the OpenHome platform to enhance user experiences and interactions with connected audio systems and devices.
+The OpenHome platform capabilities, referred to as "abilities," encompass the various functionalities and features that devices and applications can leverage within the OpenHome ecosystem to enhance user experience and interaction.
 
 ## how-it-works
-The OpenHome platform allows devices to utilize a set of predefined abilities that enable them to perform specific tasks or respond to user commands. These abilities include functions like streaming audio, managing playlists, and controlling device settings, all while integrating seamlessly with other devices within the ecosystem. The architecture is designed to ensure that devices can communicate effectively and deliver a unified user experience across different platforms and interfaces.
+Abilities in the OpenHome platform allow devices to perform specific tasks or provide particular services. These may include media playback, environmental controls, and integration with third-party services. The platform is designed to enable a seamless interaction between users and devices, fostering an intuitive and cohesive smart home environment. Each ability can be independently implemented and updated, allowing for versatile applications that adapt to user needs and preferences.
 
 ## current-status
 stub
 
 ## connects-to
-[[platform/openhome]]  
-[[platform/speakers]]  
-[[platform/dashboard]]  
-[[platform/voice-ai]]  
-[[platform/local-link]]  
-[[platform/marketplace]]  
-[[platform/live-editor]]  
+[[platform/openhome]]
+[[platform/speakers]]
+[[platform/dashboard]]
+[[platform/voice-ai]]
+[[platform/local-link]]
+[[platform/marketplace]]
+[[platform/live-editor]]
 
-<!-- synthesized: 2026-11-25T20:15:41Z -->
+<!-- synthesized: 2026-11-26T19:53:45Z -->

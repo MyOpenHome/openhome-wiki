@@ -1,25 +1,27 @@
 ```markdown
 ---
-title: Illectric Co
-entity_type: builders
+title: illectric-co
+entity_type: builders/
 status: stub
-last_updated: 2026-11-25
+last_updated: 2026-11-26
 ---
 
-## who-they-are
-Illectric Co is a community-focused group of builders working on initiatives within their ecosystem. They are holders of the devkit and are committed to developing and shipping innovative abilities.
+### who-they-are
+Illectric Co is an active community builder focused on developing tools and integrations that enhance the user experience in the digital landscape. They are known for their involvement with the Homie and User roles within their community.
 
-## what-they-built
-Details on specific abilities or integrations shipped by Illectric Co are currently not available.
+### what-they-built
+Details regarding specific abilities or integrations that Illectric Co has shipped are currently not available.
 
-## grant-status
+### grant-status
 none
 
-## how-to-reach
-Currently, no information on their Discord handle, GitHub, or X (formerly Twitter) is available.
+### how-to-reach
+Currently, specific contact information such as Discord handle, GitHub, or X is not available.
 
 ## connects-to
-[[wikilinks]]
+[[builders]]
+[[community]]
+[[integrations]]
 
-<!-- synthesized: 2026-11-25T20:15:41Z -->
+<!-- synthesized: 2026-11-26T19:53:45Z -->
 ```

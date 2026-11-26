@@ -1,27 +1,24 @@
 ```markdown
 ---
 title: Grant Program
-entity_type: concepts
+entity_type: concepts/grant-program
 status: stub
-last_updated: 2026-11-25
+last_updated: 2026-11-26
 ---
 
-## definition
-A grant program refers to a structured initiative that provides funding or resources to individuals, organizations, or projects that align with specific goals or themes set by the granting entity. These programs are designed to support innovation, research, and community development.
+### definition
+A grant program is a structured initiative designed to provide funding to individuals, organizations, or projects that align with specific goals or criteria set by the granting entity.
 
-## why-it-matters
-In the context of OpenHome, grant programs are crucial for fostering development and encouraging contributions from a diverse range of stakeholders. They facilitate the growth of projects that enhance the platform's capabilities and inclusivity, thus enriching the overall ecosystem.
+### why-it-matters
+Grant programs are crucial for promoting innovation and supporting the development of projects that align with OpenHome's values and mission. By providing financial resources, these programs encourage community engagement, foster creativity, and enable the exploration of new technologies and solutions.
 
-## how-it-manifests
-Grant programs may manifest within OpenHome through various funding opportunities for developers, community initiatives, or collaborative projects that seek to leverage OpenHome's infrastructure. These grants can help stimulate innovation and ensure a thriving user and developer community.
+### how-it-manifests
+The concept of the grant program appears in OpenHome as a mechanism for supporting various initiatives within the platform, whether it be for developers creating apps, researchers conducting studies, or community projects aimed at enhancing user experience. These grants facilitate collaboration and ensure that projects can achieve their full potential.
 
-## connects-to
+### connects-to
 - [[concepts/abilities-as-apps]]
-- [[concepts/voice-first]]
 - [[concepts/local-first]]
 - [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
 
-<!-- synthesized: 2026-11-25T20:15:41Z -->
+<!-- synthesized: 2026-11-26T19:53:45Z -->
 ```

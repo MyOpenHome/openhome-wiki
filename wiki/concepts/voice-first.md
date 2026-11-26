@@ -1,25 +1,26 @@
 ```markdown
 ---
-title: Voice First
+title: Voice-First
 entity_type: concepts
 status: stub
-last_updated: 2026-11-25
+last_updated: 2026-11-26
 ---
 
-## definition
-Voice-first refers to an interaction model that prioritizes voice input and output as the primary means of communication with digital devices and platforms. This concept emphasizes the use of voice to control applications, access information, and perform tasks, often leveraging natural language processing and voice recognition technologies.
+### definition
+Voice-first is an approach to technology design that prioritizes voice interaction as the primary mode of user engagement, often utilizing natural language processing to facilitate conversational interfaces.
 
-## why-it-matters
-Voice-first is significant for OpenHome as it enhances user accessibility and engagement. By prioritizing voice interactions, the platform can cater to a wider audience, including those who may have difficulties with traditional interfaces. This approach supports a more intuitive and seamless user experience, aligning with the growing trend of voice-activated technologies in everyday life.
+### why-it-matters
+In the context of OpenHome, voice-first technology enhances accessibility and user experience by allowing users to interact with the platform hands-free and in a more intuitive manner. It caters to a diverse range of users, including those who may have difficulties using traditional input methods.
 
-## how-it-manifests
-In OpenHome, voice-first capabilities can be seen in various features that allow users to interact with the platform via voice commands. This could include functionalities like voice-activated navigation, executing tasks, or retrieving information simply by speaking. The integration of voice-first technology makes OpenHome more dynamic and user-friendly, appealing to users accustomed to speaking rather than typing.
+### how-it-manifests
+Voice-first capabilities can be integrated into various features of the OpenHome platform, such as enabling users to control devices, access information, or perform tasks through voice commands. This functionality is especially useful in scenarios where users need to engage with the system while performing other activities.
 
-## connects-to
-[[concepts/abilities-as-apps]]
-[[concepts/local-first]]
-[[concepts/web3-native]]
-[[concepts/spatial-intelligence]]
+### connects-to
+[[concepts/abilities-as-apps]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-11-25T20:15:41Z -->
+<!-- synthesized: 2026-11-26T19:53:45Z -->
 ```

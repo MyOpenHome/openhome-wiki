@@ -1,27 +1,27 @@
 ```markdown
 ---
 title: concepts/abilities-as-apps
-entity_type: concepts
-status: live
-last_updated: 2026-11-25
+entity_type: concept
+status: stub
+last_updated: 2026-11-26
 ---
 
-## definition
-Abilities-as-apps refers to the framework in which functionalities or capabilities are designed, developed, and deployed as applications within the OpenHome platform. This approach allows users to leverage specific abilities, similar to how traditional apps function on mobile or desktop environments.
+### definition
+Abilities-as-apps is a concept where various abilities or functionalities are packaged as discrete applications within a broader platform. This approach allows users to choose, customize, and utilize specific skills or services tailored to their needs.
 
-## why-it-matters
-This concept is important because it enables a modular architecture where users can customize their home environment by selecting and integrating different abilities as needed. It supports flexibility in how home automation and user interaction can be tailored to individual preferences and requirements.
+### why-it-matters
+This concept is significant in OpenHome as it promotes modularity and flexibility. Users can enhance their experience by selecting only the abilities that matter to them, encouraging personalization and enabling a more user-centric model. It reflects a shift towards treating individual capabilities as standalone services that can be dynamically integrated into the home environment.
 
-## how-it-manifests
-In the OpenHome platform, abilities-as-apps manifest through a variety of user-friendly applications that can be downloaded, installed, and managed easily. Users can access different functionalities—like controlling home appliances, adjusting the environment, or interacting with services—ensuring each ability operates seamlessly in conjunction with others.
+### how-it-manifests
+In the OpenHome platform, abilities-as-apps may appear as individual apps within a user interface, allowing seamless access to various skills such as voice commands, automated tasks, and smart home integrations. Users can download, install, and configure these apps according to their preferences, contributing to a more tailored and efficient home ecosystem.
 
-## connects-to
-- [[concepts/voice-first]]
-- [[concepts/local-first]]
-- [[concepts/web3-native]]
-- [[concepts/dead-mans-switch]]
-- [[concepts/spatial-intelligence]]
-- [[concepts/grant-program]]
+### connects-to
+[[concepts/voice-first]]  
+[[concepts/local-first]]  
+[[concepts/web3-native]]  
+[[concepts/dead-mans-switch]]  
+[[concepts/spatial-intelligence]]  
+[[concepts/grant-program]]  
 
-<!-- synthesized: 2026-11-25T20:15:41Z -->
+<!-- synthesized: 2026-11-26T19:53:45Z -->
 ```
