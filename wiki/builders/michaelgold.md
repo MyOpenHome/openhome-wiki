@@ -1,29 +1,27 @@
 ```markdown
 ---
-title: Michael Gold
-entity_type: builders
+title: builders/michaelgold
+entity_type: builder
 status: stub
-last_updated: 2026-11-26
+last_updated: 2026-11-27
 ---
 
-### who-they-are
-Michael Gold is an active builder in the community focused on shipping abilities related to the developer kit holdings.
+## who-they-are
+Michael Gold is a community builder within the active developer ecosystem, known for holding a devkit. He is focused on fostering collaborations and shipping innovative solutions.
 
-### what-they-built
-Details on specific abilities or integrations that Michael has shipped are currently unavailable.
+## what-they-built
+Information regarding specific abilities or integrations that Michael Gold has shipped is currently not available.
 
-### grant-status
+## grant-status
 none
 
-### how-to-reach
-Discord handle: Unknown  
-GitHub: Unknown  
-X: Unknown
+## how-to-reach
+- Discord: Not available
+- GitHub: Not available
+- X: Not available
 
 ## connects-to
-[[builders]]
-[[devkit]]
-[[abilities]]
+[[wikilink to relevant abilities or integrations]]
 
-<!-- synthesized: 2026-11-26T19:53:45Z -->
+<!-- synthesized: 2026-11-27T19:42:29Z -->
 ```

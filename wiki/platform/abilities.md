@@ -1,17 +1,18 @@
-```yaml
-title: platform/abilities
-entity_type: platform
+```markdown
+---
+title: Abilities
+entity_type: platform/abilities
 status: stub
-last_updated: 2026-11-26
-```
+last_updated: 2026-11-27
+---
 
-## what-it-is
-The OpenHome platform capabilities, referred to as "abilities," encompass the various functionalities and features that devices and applications can leverage within the OpenHome ecosystem to enhance user experience and interaction.
+### what-it-is
+The platform abilities component refers to the various features and functionalities that can be utilized within the OpenHome ecosystem.
 
-## how-it-works
-Abilities in the OpenHome platform allow devices to perform specific tasks or provide particular services. These may include media playback, environmental controls, and integration with third-party services. The platform is designed to enable a seamless interaction between users and devices, fostering an intuitive and cohesive smart home environment. Each ability can be independently implemented and updated, allowing for versatile applications that adapt to user needs and preferences.
+### how-it-works
+Currently, there is limited information available on the specific operational mechanics of the platform abilities. It is part of the broader OpenHome architecture, allowing for enhanced interaction and integration with various devices and services. 
 
-## current-status
+### current-status
 stub
 
 ## connects-to
@@ -23,4 +24,5 @@ stub
 [[platform/marketplace]]
 [[platform/live-editor]]
 
-<!-- synthesized: 2026-11-26T19:53:45Z -->
+<!-- synthesized: 2026-11-27T19:42:29Z -->
+```

@@ -3,25 +3,25 @@
 title: Web3 Native
 entity_type: concepts
 status: stub
-last_updated: 2026-11-26
+last_updated: 2026-11-27
 ---
 
-## definition
-Web3 native refers to applications, platforms, and technologies that are built on decentralized protocols and operate within a Web3 ecosystem, emphasizing user sovereignty, privacy, and interoperability. This concept leverages blockchain technology to create more transparent, secure, and user-focused digital experiences.
+### definition
+Web3 native refers to applications, protocols, and services built on decentralized technologies such as blockchain, aligning with the principles of Web3, which emphasize user ownership, privacy, and decentralization.
 
-## why-it-matters
-In the context of OpenHome, being Web3 native is crucial as it aligns with the foundational principles of decentralization and user empowerment. It enhances the platform's ability to provide a transparent environment where users have control over their data and digital assets.
+### why-it-matters
+The web3 native paradigm is essential for OpenHome as it enables a user-centric approach to digital interactions. This approach empowers users with control over their data, enhances privacy, and fosters an ecosystem where users can participate in governance and development directly. It aligns with OpenHome's goal of creating an inclusive and participatory digital environment.
 
-## how-it-manifests
-The Web3 native concept manifests within OpenHome through its integration of decentralized identity management, smart contracts, and token-based governance. Users can interact with decentralized applications (dApps) seamlessly, ensuring that their experiences are governed by the principles of the Web3 paradigm.
+### how-it-manifests
+In the OpenHome platform, web3 native concepts can manifest through decentralized identity management, where users maintain control over their personal information. Additionally, features that incorporate smart contracts for automating interactions and decentralized applications (dApps) that enhance user engagement are significant aspects of this paradigm. By adopting these technologies, OpenHome aims to create a more resilient and user-centric platform.
 
-## connects-to
-[[concepts/abilities-as-apps]]  
-[[concepts/voice-first]]  
-[[concepts/local-first]]  
-[[concepts/dead-mans-switch]]  
-[[concepts/spatial-intelligence]]  
-[[concepts/grant-program]]  
+### connects-to
+[[concepts/abilities-as-apps]]
+[[concepts/voice-first]]
+[[concepts/local-first]]
+[[concepts/dead-mans-switch]]
+[[concepts/spatial-intelligence]]
+[[concepts/grant-program]]
 
-<!-- synthesized: 2026-11-26T19:53:45Z -->
+<!-- synthesized: 2026-11-27T19:42:29Z -->
 ```

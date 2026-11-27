@@ -3,26 +3,25 @@
 title: Roadmap
 entity_type: roadmap/planned
 status: stub
-last_updated: 2026-11-26
+last_updated: 2026-11-27
 ---
 
 ### what-it-is
-The roadmap outlines features and milestones that are upcoming, in progress, or have been shipped.
+An overview of upcoming features and milestones.
 
 ### status
-Stub - specific details about features or milestones are not currently available.
+stub
 
 ### why-it-matters
-Understanding the roadmap allows stakeholders to anticipate new features, track progress on current developments, and assess the impact of shipped functionalities on users and the overall system.
+Keeping track of what is planned helps stakeholders understand the direction of the project and upcoming capabilities.
 
 ### eta
-Rough timeline is unknown at this moment.
+Unknown
 
 ## connects-to
-[[Features]]
-[[Milestones]]
-[[Development]]
-[[Updates]]
+[[features]]  
+[[milestones]]  
+[[project_updates]]  
 
-<!-- synthesized: 2026-11-26T19:53:45Z -->
+<!-- synthesized: 2026-11-27T19:42:29Z -->
 ```

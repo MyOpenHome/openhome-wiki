@@ -2,26 +2,26 @@
 ---
 title: roadmap/shipped
 entity_type: roadmap
-status: stub
-last_updated: 2026-11-26
+status: live
+last_updated: 2026-11-27
 ---
 
 ### what-it-is
-This page outlines the features or milestones that have been shipped as part of the roadmap.
+This section outlines the features and milestones that have been shipped as part of the development roadmap.
 
 ### status
-The current status of the roadmap is marked as stub due to insufficient information available on completed features.
+Shipped
 
 ### why-it-matters
-Understanding what has been shipped in the roadmap is crucial for stakeholders to track progress, make informed decisions, and anticipate future developments within the project.
+Understanding the shipped features and milestones is crucial for users and developers as it showcases the progress made and the functionalities that have been implemented. This helps stakeholders align their expectations and leverage new capabilities.
 
 ### eta
-No specific timelines are available at this moment.
+No specific timeline provided.
 
 ## connects-to
-[[roadmap/planned]]  
-[[roadmap/in-progress]]  
-[[roadmap/cancelled]]  
+[[roadmap/planned]]
+[[roadmap/in-progress]]
+[[roadmap/cancelled]]
 
-<!-- synthesized: 2026-11-26T19:53:45Z -->
+<!-- synthesized: 2026-11-27T19:42:29Z -->
 ```
